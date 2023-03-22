@@ -1,0 +1,8667 @@
+graph [
+  node [
+    id 0
+    label "1684687"
+    name "Ingmar G. Weber"
+    topField "Computer Science"
+    citationCount 15.0
+    totalCssPapers 57
+    yearFirst 2009.0
+    group 63
+  ]
+  node [
+    id 1
+    label "1401290379"
+    name "Jesu&#347; G&#243;mez-garde&#241;es"
+    topField "Computer Science"
+    citationCount 47.5
+    totalCssPapers 12
+    yearFirst 2009.0
+    group 5
+  ]
+  node [
+    id 2
+    label "1747178"
+    name "David Fernandes De Oliveira"
+    topField "Computer Science"
+    citationCount 6.5
+    totalCssPapers 2
+    yearFirst 2012.0
+    group 44
+  ]
+  node [
+    id 3
+    label "145791827"
+    name "Johnnatan Messias"
+    topField "Computer Science"
+    citationCount 27.0
+    totalCssPapers 7
+    yearFirst 2016.0
+    group 53
+  ]
+  node [
+    id 4
+    label "12619623"
+    name "Koustuv Saha"
+    topField "Psychology"
+    citationCount 71.0
+    totalCssPapers 1
+    yearFirst 2018.0
+    group 53
+  ]
+  node [
+    id 5
+    label "1878375"
+    name "Nicholas Anthony Obradovich"
+    topField "Environmental Science"
+    citationCount 31.0
+    totalCssPapers 5
+    yearFirst 2016.0
+    group 17
+  ]
+  node [
+    id 6
+    label "145512647"
+    name "Manuel Cebri&#225;n"
+    topField "Computer Science"
+    citationCount 26.0
+    totalCssPapers 21
+    yearFirst 2009.0
+    group 17
+  ]
+  node [
+    id 7
+    label "1768825"
+    name "Dirk Helbing"
+    topField "Computer Science"
+    citationCount 88.5
+    totalCssPapers 8
+    yearFirst 2010.0
+    group 5
+  ]
+  node [
+    id 8
+    label "36663090"
+    name "Y.-y. Ahn"
+    topField "Computer Science"
+    citationCount 7.0
+    totalCssPapers 17
+    yearFirst 2013.0
+    group 17
+  ]
+  node [
+    id 9
+    label "144133315"
+    name "Boleslaw Szymanski"
+    topField "Computer Science"
+    citationCount 6.0
+    totalCssPapers 24
+    yearFirst 2009.0
+    group 81
+  ]
+  node [
+    id 10
+    label "1928935"
+    name "Stefano Boccaletti"
+    topField "Physics"
+    citationCount 16.0
+    totalCssPapers 9
+    yearFirst 2017.0
+    group 5
+  ]
+  node [
+    id 11
+    label "23193291"
+    name "Thiago Henrique Silva"
+    topField "Computer Science"
+    citationCount 1.0
+    totalCssPapers 10
+    yearFirst 2014.0
+    group 36
+  ]
+  node [
+    id 12
+    label "143634219"
+    name "Yamir Moreno"
+    topField "Computer Science"
+    citationCount 17.5
+    totalCssPapers 44
+    yearFirst 2009.0
+    group 5
+  ]
+  node [
+    id 13
+    label "34805726"
+    name "Enrico Ubaldi"
+    topField "Computer Science"
+    citationCount 4.5
+    totalCssPapers 2
+    yearFirst 2019.0
+    group 20
+  ]
+  node [
+    id 14
+    label "1557331003"
+    name "Kaiyuan Sun"
+    topField "Medicine"
+    citationCount 0.0
+    totalCssPapers 1
+    yearFirst 2019.0
+    group 20
+  ]
+  node [
+    id 15
+    label "38964525"
+    name "Adriano C.m. Pereira"
+    topField "Computer Science"
+    citationCount 3.0
+    totalCssPapers 5
+    yearFirst 2009.0
+    group 11
+  ]
+  node [
+    id 16
+    label "1786438"
+    name "Daniel Hasan Dalip"
+    topField "Computer Science"
+    citationCount 4.0
+    totalCssPapers 1
+    yearFirst 2020.0
+    group 11
+  ]
+  node [
+    id 17
+    label "1768137"
+    name "R. A. Ratan"
+    topField "Psychology"
+    citationCount 145.0
+    totalCssPapers 1
+    yearFirst 2009.0
+    group 81
+  ]
+  node [
+    id 18
+    label "46205905"
+    name "Yun Huang"
+    topField "Business"
+    citationCount 72.5
+    totalCssPapers 2
+    yearFirst 2009.0
+    group 81
+  ]
+  node [
+    id 19
+    label "39888452"
+    name "Nuno Abreu Faro E Mota"
+    topField "Economics"
+    citationCount 3.0
+    totalCssPapers 6
+    yearFirst 2019.0
+    group 43
+  ]
+  node [
+    id 20
+    label "2676839"
+    name "Abhijnan Chakraborty"
+    topField "Computer Science"
+    citationCount 3.0
+    totalCssPapers 15
+    yearFirst 2017.0
+    group 43
+  ]
+  node [
+    id 21
+    label "2307347"
+    name "Onur Varol"
+    topField "Computer Science"
+    citationCount 95.0
+    totalCssPapers 9
+    yearFirst 2013.0
+    group 20
+  ]
+  node [
+    id 22
+    label "1743043"
+    name "Mark Strohmaier"
+    topField "Computer Science"
+    citationCount 34.0
+    totalCssPapers 31
+    yearFirst 2014.0
+    group 81
+  ]
+  node [
+    id 23
+    label "1826736"
+    name "N. Perra"
+    topField "Computer Science"
+    citationCount 38.0
+    totalCssPapers 4
+    yearFirst 2014.0
+    group 20
+  ]
+  node [
+    id 24
+    label "1769960"
+    name "Alessandro Flammini"
+    topField "Computer Science"
+    citationCount 105.0
+    totalCssPapers 13
+    yearFirst 2012.0
+    group 20
+  ]
+  node [
+    id 25
+    label "2101037"
+    name "Florian Lemmerich"
+    topField "Computer Science"
+    citationCount 10.0
+    totalCssPapers 4
+    yearFirst 2017.0
+    group 81
+  ]
+  node [
+    id 26
+    label "1806767"
+    name "Mirco Musolesi"
+    topField "Computer Science"
+    citationCount 21.0
+    totalCssPapers 13
+    yearFirst 2014.0
+    group 36
+  ]
+  node [
+    id 27
+    label "1797355"
+    name "Farshad Kooti"
+    topField "Computer Science"
+    citationCount 5.0
+    totalCssPapers 5
+    yearFirst 2012.0
+    group 35
+  ]
+  node [
+    id 28
+    label "145792941"
+    name "David Michael Rothschild"
+    topField "Economics"
+    citationCount 29.5
+    totalCssPapers 2
+    yearFirst 2020.0
+    group 13
+  ]
+  node [
+    id 29
+    label "143782314"
+    name "Peter Krafft"
+    topField "Computer Science"
+    citationCount 17.0
+    totalCssPapers 7
+    yearFirst 2016.0
+    group 17
+  ]
+  node [
+    id 30
+    label "22186618"
+    name "Iacopo Iacopini"
+    topField "Computer Science"
+    citationCount 8.0
+    totalCssPapers 5
+    yearFirst 2020.0
+    group 5
+  ]
+  node [
+    id 31
+    label "2359821"
+    name "Alessandro Lomi"
+    topField "Computer Science"
+    citationCount 31.0
+    totalCssPapers 1
+    yearFirst 2017.0
+    group 51
+  ]
+  node [
+    id 32
+    label "2814772"
+    name "Eric Quintane"
+    topField "Business"
+    citationCount 15.0
+    totalCssPapers 3
+    yearFirst 2012.0
+    group 51
+  ]
+  node [
+    id 33
+    label "144694605"
+    name "Nazareno Andrade"
+    topField "Computer Science"
+    citationCount 13.5
+    totalCssPapers 4
+    yearFirst 2013.0
+    group 3
+  ]
+  node [
+    id 34
+    label "1490866355"
+    name "Li-jun Sun"
+    topField "Computer Science"
+    citationCount 61.0
+    totalCssPapers 5
+    yearFirst 2014.0
+    group 17
+  ]
+  node [
+    id 35
+    label "2734912"
+    name "Joni O Salminen"
+    topField "Computer Science"
+    citationCount 7.0
+    totalCssPapers 8
+    yearFirst 2018.0
+    group 53
+  ]
+  node [
+    id 36
+    label "144463004"
+    name "Daniel Romero"
+    topField "Computer Science"
+    citationCount 17.0
+    totalCssPapers 7
+    yearFirst 2009.0
+    group 81
+  ]
+  node [
+    id 37
+    label "1680158"
+    name "Glauber Dias Gon&#231;alves"
+    topField "Computer Science"
+    citationCount 9.0
+    totalCssPapers 2
+    yearFirst 2011.0
+    group 53
+  ]
+  node [
+    id 38
+    label "1869561"
+    name "Fabr&#305;&#769;cio Benevenuto"
+    topField "Computer Science"
+    citationCount 21.5
+    totalCssPapers 16
+    yearFirst 2011.0
+    group 53
+  ]
+  node [
+    id 39
+    label "40191926"
+    name "Shlomo. Havlin"
+    topField "Computer Science"
+    citationCount 149.0
+    totalCssPapers 7
+    yearFirst 2009.0
+    group 5
+  ]
+  node [
+    id 40
+    label "1703450"
+    name "Marco Mellia"
+    topField "Computer Science"
+    citationCount 0.0
+    totalCssPapers 1
+    yearFirst 2021.0
+    group 23
+  ]
+  node [
+    id 41
+    label "40025432"
+    name "Esteban Moro"
+    topField "Economics"
+    citationCount 33.5
+    totalCssPapers 8
+    yearFirst 2016.0
+    group 17
+  ]
+  node [
+    id 42
+    label "10721627"
+    name "Damian Trilling"
+    topField "Computer Science"
+    citationCount 8.0
+    totalCssPapers 15
+    yearFirst 2015.0
+    group 35
+  ]
+  node [
+    id 43
+    label "145511537"
+    name "Giovanni Ventorim Comarela"
+    topField "Computer Science"
+    citationCount 1.0
+    totalCssPapers 2
+    yearFirst 2019.0
+    group 76
+  ]
+  node [
+    id 44
+    label "1682773"
+    name "Alex Sandy' Pentland"
+    topField "Computer Science"
+    citationCount 8.0
+    totalCssPapers 61
+    yearFirst 2010.0
+    group 17
+  ]
+  node [
+    id 45
+    label "2111373038"
+    name "Daniel Kim"
+    topField "Economics"
+    citationCount 23.0
+    totalCssPapers 2
+    yearFirst 2015.0
+    group 7
+  ]
+  node [
+    id 46
+    label "2136396863"
+    name "Hawoong Jeong"
+    topField "Computer Science"
+    citationCount 0.0
+    totalCssPapers 3
+    yearFirst 2009.0
+    group 7
+  ]
+  node [
+    id 47
+    label "1795135"
+    name "Vito Latora"
+    topField "Computer Science"
+    citationCount 8.5
+    totalCssPapers 24
+    yearFirst 2009.0
+    group 5
+  ]
+  node [
+    id 48
+    label "47837753"
+    name "M Barth&#233;l&#233;my"
+    topField "Computer Science"
+    citationCount 160.0
+    totalCssPapers 2
+    yearFirst 2012.0
+    group 5
+  ]
+  node [
+    id 49
+    label "1903670"
+    name "Josh Tucker"
+    topField "Computer Science"
+    citationCount 6.0
+    totalCssPapers 19
+    yearFirst 2013.0
+    group 35
+  ]
+  node [
+    id 50
+    label "143710789"
+    name "Patrick Loiseau"
+    topField "Computer Science"
+    citationCount 6.0
+    totalCssPapers 12
+    yearFirst 2013.0
+    group 43
+  ]
+  node [
+    id 51
+    label "2592694"
+    name "Haewoon Kwak"
+    topField "Computer Science"
+    citationCount 22.5
+    totalCssPapers 14
+    yearFirst 2014.0
+    group 53
+  ]
+  node [
+    id 52
+    label "1766240"
+    name "Claudio Santos Pinhanez"
+    topField "Computer Science"
+    citationCount 2.0
+    totalCssPapers 3
+    yearFirst 2012.0
+    group 36
+  ]
+  node [
+    id 53
+    label "145832870"
+    name "Brian C. Keegan"
+    topField "Computer Science"
+    citationCount 17.0
+    totalCssPapers 9
+    yearFirst 2009.0
+    group 81
+  ]
+  node [
+    id 54
+    label "35497150"
+    name "Christo Wilson"
+    topField "Computer Science"
+    citationCount 219.0
+    totalCssPapers 5
+    yearFirst 2012.0
+    group 81
+  ]
+  node [
+    id 55
+    label "2007674493"
+    name "Rahul Ranjan Yadav"
+    topField "Economics"
+    citationCount 0.5
+    totalCssPapers 4
+    yearFirst 2022.0
+    group 43
+  ]
+  node [
+    id 56
+    label "47321836"
+    name "Anjali"
+    topField "Medicine"
+    citationCount 1.0
+    totalCssPapers 2
+    yearFirst 2022.0
+    group 43
+  ]
+  node [
+    id 57
+    label "145051969"
+    name "Paulo Goes"
+    topField "Computer Science"
+    citationCount 19.0
+    totalCssPapers 13
+    yearFirst 2009.0
+    group 11
+  ]
+  node [
+    id 58
+    label "1970752"
+    name "Alexander Peysakhovich"
+    topField "Economics"
+    citationCount 11.0
+    totalCssPapers 3
+    yearFirst 2017.0
+    group 37
+  ]
+  node [
+    id 59
+    label "40798235"
+    name "Yan Yu Zhang"
+    topField "Economics"
+    citationCount 12.0
+    totalCssPapers 1
+    yearFirst 2019.0
+    group 6
+  ]
+  node [
+    id 60
+    label "1733303"
+    name "Frank J. Schweitzer"
+    topField "Computer Science"
+    citationCount 10.0
+    totalCssPapers 55
+    yearFirst 2009.0
+    group 6
+  ]
+  node [
+    id 61
+    label "2735649"
+    name "Andr&#233; Panisson"
+    topField "Computer Science"
+    citationCount 1.0
+    totalCssPapers 5
+    yearFirst 2015.0
+    group 63
+  ]
+  node [
+    id 62
+    label "2504674"
+    name "Daniela Paolotti"
+    topField "Medicine"
+    citationCount 2.0
+    totalCssPapers 2
+    yearFirst 2021.0
+    group 63
+  ]
+  node [
+    id 63
+    label "2202587362"
+    name "Willi Mueller"
+    topField "Sociology"
+    citationCount 0.0
+    totalCssPapers 1
+    yearFirst 2017.0
+    group 36
+  ]
+  node [
+    id 64
+    label "2337765"
+    name "H. Makse"
+    topField "Physics"
+    citationCount 64.0
+    totalCssPapers 10
+    yearFirst 2009.0
+    group 5
+  ]
+  node [
+    id 65
+    label "1726343"
+    name "Jannetje Hendrika Francina Treur"
+    topField "Computer Science"
+    citationCount 5.0
+    totalCssPapers 15
+    yearFirst 2010.0
+    group 2
+  ]
+  node [
+    id 66
+    label "3239668"
+    name "Flaviano Morone"
+    topField "Computer Science"
+    citationCount 58.0
+    totalCssPapers 2
+    yearFirst 2017.0
+    group 5
+  ]
+  node [
+    id 67
+    label "1834047"
+    name "Jungseock Joo"
+    topField "Computer Science"
+    citationCount 5.0
+    totalCssPapers 5
+    yearFirst 2019.0
+    group 22
+  ]
+  node [
+    id 68
+    label "1776476"
+    name "Bruno Lepri"
+    topField "Computer Science"
+    citationCount 21.0
+    totalCssPapers 24
+    yearFirst 2011.0
+    group 17
+  ]
+  node [
+    id 69
+    label "40508064"
+    name "Matthew A. Baum"
+    topField "Political Science"
+    citationCount 2.5
+    totalCssPapers 12
+    yearFirst 2020.0
+    group 55
+  ]
+  node [
+    id 70
+    label "144392750"
+    name "M&#225;rio S&#233;rgio Alvim"
+    topField "Computer Science"
+    citationCount 1.0
+    totalCssPapers 3
+    yearFirst 2019.0
+    group 61
+  ]
+  node [
+    id 71
+    label "4106384"
+    name "James N Druckman"
+    topField "Political Science"
+    citationCount 2.0
+    totalCssPapers 10
+    yearFirst 2020.0
+    group 55
+  ]
+  node [
+    id 72
+    label "1775511"
+    name "Meeyoung Cha"
+    topField "Computer Science"
+    citationCount 6.0
+    totalCssPapers 27
+    yearFirst 2011.0
+    group 17
+  ]
+  node [
+    id 73
+    label "1981267"
+    name "T Vicsek"
+    topField "Physics"
+    citationCount 5.5
+    totalCssPapers 6
+    yearFirst 2009.0
+    group 63
+  ]
+  node [
+    id 74
+    label "1705156"
+    name "Iyad Rahwan"
+    topField "Computer Science"
+    citationCount 16.0
+    totalCssPapers 34
+    yearFirst 2009.0
+    group 17
+  ]
+  node [
+    id 75
+    label "2109293717"
+    name "Jennifer Nancy Lee Allen"
+    topField "Computer Science"
+    citationCount 3.0
+    totalCssPapers 1
+    yearFirst 2023.0
+    group 29
+  ]
+  node [
+    id 76
+    label "73774143"
+    name "Matja&#382; Nekrep Perc"
+    topField "Economics"
+    citationCount 18.5
+    totalCssPapers 18
+    yearFirst 2010.0
+    group 5
+  ]
+  node [
+    id 77
+    label "2327052"
+    name "Morgan R. Frank"
+    topField "Economics"
+    citationCount 16.0
+    totalCssPapers 11
+    yearFirst 2017.0
+    group 17
+  ]
+  node [
+    id 78
+    label "70224648"
+    name "Cornelius Puschmann"
+    topField "Computer Science"
+    citationCount 10.0
+    totalCssPapers 11
+    yearFirst 2015.0
+    group 35
+  ]
+  node [
+    id 79
+    label "2617057"
+    name "Lilian Weng"
+    topField "Computer Science"
+    citationCount 25.0
+    totalCssPapers 1
+    yearFirst 2015.0
+    group 20
+  ]
+  node [
+    id 80
+    label "143653472"
+    name "Fil Menczer"
+    topField "Computer Science"
+    citationCount 94.0
+    totalCssPapers 18
+    yearFirst 2009.0
+    group 20
+  ]
+  node [
+    id 81
+    label "1958921"
+    name "Krishna Gummadi"
+    topField "Computer Science"
+    citationCount 6.0
+    totalCssPapers 24
+    yearFirst 2012.0
+    group 43
+  ]
+  node [
+    id 82
+    label "1735860"
+    name "Pawel Sobkowicz"
+    topField "Computer Science"
+    citationCount 4.0
+    totalCssPapers 1
+    yearFirst 2021.0
+    group 64
+  ]
+  node [
+    id 83
+    label "1794642"
+    name "David Yates"
+    topField "Computer Science"
+    citationCount 5.0
+    totalCssPapers 12
+    yearFirst 2010.0
+    group 1
+  ]
+  node [
+    id 84
+    label "2016371"
+    name "J. H. Fowler"
+    topField "Economics"
+    citationCount 64.0
+    totalCssPapers 6
+    yearFirst 2013.0
+    group 17
+  ]
+  node [
+    id 85
+    label "2818774"
+    name "Laura Alessandretti"
+    topField "Computer Science"
+    citationCount 5.5
+    totalCssPapers 8
+    yearFirst 2016.0
+    group 26
+  ]
+  node [
+    id 86
+    label "3185333"
+    name "David M J Lazer"
+    topField "Computer Science"
+    citationCount 6.5
+    totalCssPapers 36
+    yearFirst 2009.0
+    group 55
+  ]
+  node [
+    id 87
+    label "31413949"
+    name "Sune Lehmann"
+    topField "Computer Science"
+    citationCount 107.0
+    totalCssPapers 3
+    yearFirst 2016.0
+    group 26
+  ]
+  node [
+    id 88
+    label "143756545"
+    name "Maxi San Miguel"
+    topField "Physics"
+    citationCount 13.0
+    totalCssPapers 13
+    yearFirst 2012.0
+    group 5
+  ]
+  node [
+    id 89
+    label "2146531"
+    name "Claudio J. Tessone"
+    topField "Computer Science"
+    citationCount 15.0
+    totalCssPapers 27
+    yearFirst 2009.0
+    group 6
+  ]
+  node [
+    id 90
+    label "2939899"
+    name "Nicolas Perony"
+    topField "Biology"
+    citationCount 5.5
+    totalCssPapers 8
+    yearFirst 2012.0
+    group 6
+  ]
+  node [
+    id 91
+    label "1830872"
+    name "Stefano Battiston"
+    topField "Economics"
+    citationCount 53.5
+    totalCssPapers 6
+    yearFirst 2009.0
+    group 6
+  ]
+  node [
+    id 92
+    label "145204677"
+    name "Haroldo Valetin Ribeiro"
+    topField "Mathematics"
+    citationCount 29.0
+    totalCssPapers 4
+    yearFirst 2019.0
+    group 5
+  ]
+  node [
+    id 93
+    label "145797387"
+    name "Isabella Peters"
+    topField "Computer Science"
+    citationCount 14.5
+    totalCssPapers 2
+    yearFirst 2016.0
+    group 81
+  ]
+  node [
+    id 94
+    label "5803950"
+    name "Aming Li"
+    topField "Computer Science"
+    citationCount 9.0
+    totalCssPapers 8
+    yearFirst 2013.0
+    group 5
+  ]
+  node [
+    id 95
+    label "46417808"
+    name "Katrin Weller"
+    topField "Computer Science"
+    citationCount 14.0
+    totalCssPapers 7
+    yearFirst 2014.0
+    group 81
+  ]
+  node [
+    id 96
+    label "2253600"
+    name "Hoda Heidari"
+    topField "Computer Science"
+    citationCount 6.0
+    totalCssPapers 10
+    yearFirst 2013.0
+    group 43
+  ]
+  node [
+    id 97
+    label "31684379"
+    name "G L Robins"
+    topField "Computer Science"
+    citationCount 6.0
+    totalCssPapers 1
+    yearFirst 2012.0
+    group 51
+  ]
+  node [
+    id 98
+    label "32451890"
+    name "Fabricio Murai Ferreira"
+    topField "Mathematics"
+    citationCount 13.0
+    totalCssPapers 1
+    yearFirst 2019.0
+    group 36
+  ]
+  node [
+    id 99
+    label "1714923"
+    name "Jussara Marques De Almeida"
+    topField "Computer Science"
+    citationCount 8.0
+    totalCssPapers 6
+    yearFirst 2014.0
+    group 36
+  ]
+  node [
+    id 100
+    label "1745069"
+    name "A-l Barab&#225;si"
+    topField "Biology"
+    citationCount 144.0
+    totalCssPapers 7
+    yearFirst 2009.0
+    group 63
+  ]
+  node [
+    id 101
+    label "144775817"
+    name "Marco Ant&#244;nio Cristo"
+    topField "Computer Science"
+    citationCount 6.5
+    totalCssPapers 2
+    yearFirst 2012.0
+    group 44
+  ]
+  node [
+    id 102
+    label "1705422"
+    name "N&#237;vio Ziviani"
+    topField "Computer Science"
+    citationCount 12.0
+    totalCssPapers 1
+    yearFirst 2012.0
+    group 44
+  ]
+  node [
+    id 103
+    label "7507319"
+    name "Paul A M Van Lange"
+    topField "Psychology"
+    citationCount 22.0
+    totalCssPapers 1
+    yearFirst 2020.0
+    group 30
+  ]
+  node [
+    id 104
+    label "144679076"
+    name "Carlos Henrique Gomes Ferreira"
+    topField "Computer Science"
+    citationCount 13.5
+    totalCssPapers 2
+    yearFirst 2018.0
+    group 36
+  ]
+  node [
+    id 105
+    label "40660541"
+    name "J.m. An"
+    topField "Computer Science"
+    citationCount 26.0
+    totalCssPapers 15
+    yearFirst 2014.0
+    group 53
+  ]
+  node [
+    id 106
+    label "2232853"
+    name "Jean Gabriel Young"
+    topField "Computer Science"
+    citationCount 2.5
+    totalCssPapers 6
+    yearFirst 2016.0
+    group 4
+  ]
+  node [
+    id 107
+    label "118400138"
+    name "Giovanni Petri"
+    topField "Computer Science"
+    citationCount 30.0
+    totalCssPapers 4
+    yearFirst 2011.0
+    group 63
+  ]
+  node [
+    id 108
+    label "1755187"
+    name "Paulo Rodrigo Cavalin"
+    topField "Computer Science"
+    citationCount 28.0
+    totalCssPapers 1
+    yearFirst 2019.0
+    group 36
+  ]
+  node [
+    id 109
+    label "25635057"
+    name "Caterina De Bacco"
+    topField "Computer Science"
+    citationCount 2.0
+    totalCssPapers 3
+    yearFirst 2018.0
+    group 49
+  ]
+  node [
+    id 110
+    label "39003910"
+    name "Cuihua Shen"
+    topField "Psychology"
+    citationCount 73.0
+    totalCssPapers 2
+    yearFirst 2009.0
+    group 81
+  ]
+  node [
+    id 111
+    label "1389957009"
+    name "Ricardo A. Baeza-yates"
+    topField "Computer Science"
+    citationCount 14.0
+    totalCssPapers 7
+    yearFirst 2013.0
+    group 40
+  ]
+  node [
+    id 112
+    label "2334449"
+    name "Duccio Fanelli"
+    topField "Physics"
+    citationCount 4.0
+    totalCssPapers 5
+    yearFirst 2009.0
+    group 7
+  ]
+  node [
+    id 113
+    label "145444219"
+    name "Douglas R. White"
+    topField "Sociology"
+    citationCount 467.5
+    totalCssPapers 2
+    yearFirst 2009.0
+    group 6
+  ]
+  node [
+    id 114
+    label "1389555445"
+    name "Fernando Vega-redondo"
+    topField "Economics"
+    citationCount 467.5
+    totalCssPapers 2
+    yearFirst 2009.0
+    group 6
+  ]
+  node [
+    id 115
+    label "3447293"
+    name "Savvas Zannettou"
+    topField "Computer Science"
+    citationCount 19.0
+    totalCssPapers 6
+    yearFirst 2020.0
+    group 32
+  ]
+  node [
+    id 116
+    label "2408791"
+    name "Gourab Ghoshal"
+    topField "Computer Science"
+    citationCount 19.5
+    totalCssPapers 4
+    yearFirst 2012.0
+    group 63
+  ]
+  node [
+    id 117
+    label "2142832956"
+    name "Milena Tsvetkova"
+    topField "Economics"
+    citationCount 12.0
+    totalCssPapers 1
+    yearFirst 2018.0
+    group 81
+  ]
+  node [
+    id 118
+    label "144065562"
+    name "Claudia Wagner"
+    topField "Computer Science"
+    citationCount 32.0
+    totalCssPapers 28
+    yearFirst 2014.0
+    group 81
+  ]
+  node [
+    id 119
+    label "1757448"
+    name "Antonio Alfredo Ferreira Loureiro"
+    topField "Computer Science"
+    citationCount 3.0
+    totalCssPapers 5
+    yearFirst 2010.0
+    group 36
+  ]
+  node [
+    id 120
+    label "2709512"
+    name "Juhi Kulshrestha"
+    topField "Computer Science"
+    citationCount 87.5
+    totalCssPapers 4
+    yearFirst 2012.0
+    group 35
+  ]
+  node [
+    id 121
+    label "144898884"
+    name "Jakub Jakubowski"
+    topField "Agricultural And Food Sciences"
+    citationCount 0.0
+    totalCssPapers 2
+    yearFirst 2022.0
+    group 35
+  ]
+  node [
+    id 122
+    label "35137595"
+    name "Michael Szell"
+    topField "Computer Science"
+    citationCount 36.5
+    totalCssPapers 12
+    yearFirst 2009.0
+    group 63
+  ]
+  node [
+    id 123
+    label "33418543"
+    name "Jon Mohr"
+    topField "Sociology"
+    citationCount 21.0
+    totalCssPapers 1
+    yearFirst 2018.0
+    group 66
+  ]
+  node [
+    id 124
+    label "144715575"
+    name "Bernard J Jansen"
+    topField "Computer Science"
+    citationCount 6.5
+    totalCssPapers 16
+    yearFirst 2010.0
+    group 53
+  ]
+  node [
+    id 125
+    label "3329961"
+    name "Yelena A Mejova"
+    topField "Computer Science"
+    citationCount 13.0
+    totalCssPapers 28
+    yearFirst 2012.0
+    group 63
+  ]
+  node [
+    id 126
+    label "2987485"
+    name "S. Miccich&#233;"
+    topField "Economics"
+    citationCount 37.0
+    totalCssPapers 6
+    yearFirst 2010.0
+    group 42
+  ]
+  node [
+    id 127
+    label "1809355"
+    name "Timot&#233;o Carletti"
+    topField "Mathematics"
+    citationCount 4.0
+    totalCssPapers 12
+    yearFirst 2010.0
+    group 7
+  ]
+  node [
+    id 128
+    label "1390739401"
+    name "Jaehyuk Park"
+    topField "Computer Science"
+    citationCount 49.5
+    totalCssPapers 2
+    yearFirst 2019.0
+    group 17
+  ]
+  node [
+    id 129
+    label "33392067"
+    name "Agneev Mukherjee"
+    topField "Computer Science"
+    citationCount 4.0
+    totalCssPapers 4
+    yearFirst 2015.0
+    group 43
+  ]
+  node [
+    id 130
+    label "4213990"
+    name "Niloy Ganguly"
+    topField "Computer Science"
+    citationCount 6.0
+    totalCssPapers 8
+    yearFirst 2015.0
+    group 43
+  ]
+  node [
+    id 131
+    label "35589613"
+    name "Daniela Fleischmann"
+    topField "Biology"
+    citationCount 3.0
+    totalCssPapers 1
+    yearFirst 2019.0
+    group 6
+  ]
+  node [
+    id 132
+    label "2690810"
+    name "Arpita Phukan Biswas"
+    topField "Computer Science"
+    citationCount 52.0
+    totalCssPapers 3
+    yearFirst 2017.0
+    group 71
+  ]
+  node [
+    id 133
+    label "2176093416"
+    name "Denis Halagiera"
+    topField "Sociology"
+    citationCount 0.0
+    totalCssPapers 2
+    yearFirst 2022.0
+    group 35
+  ]
+  node [
+    id 134
+    label "1694662"
+    name "Philippa E Pattison"
+    topField "Psychology"
+    citationCount 6.0
+    totalCssPapers 1
+    yearFirst 2012.0
+    group 51
+  ]
+  node [
+    id 135
+    label "145192169"
+    name "Mario Vincenzo Tomasello"
+    topField "Business"
+    citationCount 16.0
+    totalCssPapers 7
+    yearFirst 2013.0
+    group 6
+  ]
+  node [
+    id 136
+    label "3306556"
+    name "Kenneth Joseph"
+    topField "Computer Science"
+    citationCount 5.0
+    totalCssPapers 6
+    yearFirst 2018.0
+    group 55
+  ]
+  node [
+    id 137
+    label "2332167"
+    name "Federico Battiston"
+    topField "Computer Science"
+    citationCount 28.0
+    totalCssPapers 6
+    yearFirst 2015.0
+    group 5
+  ]
+  node [
+    id 138
+    label "145512648"
+    name "Manuel Cebri&#225;n"
+    topField "Computer Science"
+    citationCount 3.0
+    totalCssPapers 11
+    yearFirst 2015.0
+    group 17
+  ]
+  node [
+    id 139
+    label "8008695"
+    name "Federico Musciotto"
+    topField "Computer Science"
+    citationCount 11.0
+    totalCssPapers 4
+    yearFirst 2015.0
+    group 42
+  ]
+  node [
+    id 140
+    label "1808594"
+    name "Andrew Benjamin Lippman"
+    topField "Computer Science"
+    citationCount 26.0
+    totalCssPapers 2
+    yearFirst 2010.0
+    group 77
+  ]
+  node [
+    id 141
+    label "2210638"
+    name "Diego Rybski"
+    topField "Environmental Science"
+    citationCount 217.0
+    totalCssPapers 3
+    yearFirst 2009.0
+    group 5
+  ]
+  node [
+    id 142
+    label "145864135"
+    name "Petter Holme"
+    topField "Computer Science"
+    citationCount 20.0
+    totalCssPapers 1
+    yearFirst 2020.0
+    group 5
+  ]
+  node [
+    id 143
+    label "67128030"
+    name "Noshir S Contractor"
+    topField "Computer Science"
+    citationCount 28.5
+    totalCssPapers 8
+    yearFirst 2009.0
+    group 81
+  ]
+  node [
+    id 144
+    label "46886279"
+    name "Aniko Hannak"
+    topField "Computer Science"
+    citationCount 12.0
+    totalCssPapers 12
+    yearFirst 2017.0
+    group 55
+  ]
+  node [
+    id 145
+    label "1710491"
+    name "Antonios Garas"
+    topField "Computer Science"
+    citationCount 15.0
+    totalCssPapers 15
+    yearFirst 2010.0
+    group 6
+  ]
+  node [
+    id 146
+    label "8977167"
+    name "Alain Barrat"
+    topField "Computer Science"
+    citationCount 6.0
+    totalCssPapers 3
+    yearFirst 2013.0
+    group 63
+  ]
+  node [
+    id 147
+    label "35213700"
+    name "Pedro A M De Castro Melo"
+    topField "Computer Science"
+    citationCount 49.5
+    totalCssPapers 2
+    yearFirst 2014.0
+    group 36
+  ]
+  node [
+    id 148
+    label "145724348"
+    name "Vincenzo Nicosia"
+    topField "Computer Science"
+    citationCount 9.0
+    totalCssPapers 9
+    yearFirst 2012.0
+    group 5
+  ]
+  node [
+    id 149
+    label "145850310"
+    name "Meead Saberi"
+    topField "Computer Science"
+    citationCount 11.5
+    totalCssPapers 16
+    yearFirst 2015.0
+    group 45
+  ]
+  node [
+    id 150
+    label "1907673"
+    name "Przemyslaw Grabowicz"
+    topField "Computer Science"
+    citationCount 36.0
+    totalCssPapers 2
+    yearFirst 2011.0
+    group 88
+  ]
+  node [
+    id 151
+    label "145165884"
+    name "Angel S&#225;nchez"
+    topField "Economics"
+    citationCount 16.0
+    totalCssPapers 13
+    yearFirst 2011.0
+    group 5
+  ]
+  node [
+    id 152
+    label "1685445"
+    name "M.e. Crovella"
+    topField "Computer Science"
+    citationCount 3.5
+    totalCssPapers 2
+    yearFirst 2014.0
+    group 12
+  ]
+  node [
+    id 153
+    label "40348583"
+    name "Chenhao Tan"
+    topField "Computer Science"
+    citationCount 12.0
+    totalCssPapers 6
+    yearFirst 2017.0
+    group 17
+  ]
+  node [
+    id 154
+    label "3309646"
+    name "Florina Piroi"
+    topField "Computer Science"
+    citationCount 18.0
+    totalCssPapers 1
+    yearFirst 2017.0
+    group 63
+  ]
+  node [
+    id 155
+    label "3071228"
+    name "Jo&#227;o R. M. Palotti"
+    topField "Computer Science"
+    citationCount 4.0
+    totalCssPapers 3
+    yearFirst 2017.0
+    group 63
+  ]
+  node [
+    id 156
+    label "2066547712"
+    name "Willi M&#252;ller"
+    topField "Sociology"
+    citationCount 14.0
+    totalCssPapers 2
+    yearFirst 2016.0
+    group 36
+  ]
+  node [
+    id 157
+    label "3141455"
+    name "J. Kert&#233;sz"
+    topField "Physics"
+    citationCount 38.5
+    totalCssPapers 2
+    yearFirst 2016.0
+    group 20
+  ]
+  node [
+    id 158
+    label "40527549"
+    name "Gerardo I&#241;iguez"
+    topField "Computer Science"
+    citationCount 4.0
+    totalCssPapers 6
+    yearFirst 2016.0
+    group 20
+  ]
+  node [
+    id 159
+    label "3020008"
+    name "Fabian Paetzel"
+    topField "Economics"
+    citationCount 12.0
+    totalCssPapers 1
+    yearFirst 2012.0
+    group 6
+  ]
+  node [
+    id 160
+    label "2130858"
+    name "J P Saram&#228;ki"
+    topField "Computer Science"
+    citationCount 43.5
+    totalCssPapers 2
+    yearFirst 2015.0
+    group 20
+  ]
+  node [
+    id 161
+    label "145340813"
+    name "Michele Amaral Brand&#227;o"
+    topField "Computer Science"
+    citationCount 0.0
+    totalCssPapers 1
+    yearFirst 2018.0
+    group 21
+  ]
+  node [
+    id 162
+    label "2188748"
+    name "Vincent Buskens"
+    topField "Economics"
+    citationCount 0.0
+    totalCssPapers 1
+    yearFirst 2022.0
+    group 25
+  ]
+  node [
+    id 163
+    label "51189569"
+    name "Ulrich J Frey"
+    topField "Computer Science"
+    citationCount 0.0
+    totalCssPapers 1
+    yearFirst 2022.0
+    group 25
+  ]
+  node [
+    id 164
+    label "1708380"
+    name "Artur Ziviani"
+    topField "Computer Science"
+    citationCount 1.0
+    totalCssPapers 3
+    yearFirst 2019.0
+    group 36
+  ]
+  node [
+    id 165
+    label "144447774"
+    name "Alessandro Garcia"
+    topField "Computer Science"
+    citationCount 3.0
+    totalCssPapers 3
+    yearFirst 2013.0
+    group 67
+  ]
+  node [
+    id 166
+    label "22446549"
+    name "Simon Schweighofer"
+    topField "Psychology"
+    citationCount 10.0
+    totalCssPapers 3
+    yearFirst 2015.0
+    group 6
+  ]
+  node [
+    id 167
+    label "51183905"
+    name "Serena Giurgola"
+    topField "Psychology"
+    citationCount 1.0
+    totalCssPapers 2
+    yearFirst 2021.0
+    group 63
+  ]
+  node [
+    id 168
+    label "2349638"
+    name "Michele Tizzoni"
+    topField "Economics"
+    citationCount 6.0
+    totalCssPapers 7
+    yearFirst 2015.0
+    group 63
+  ]
+  node [
+    id 169
+    label "144518215"
+    name "Amy X. Zhang"
+    topField "Computer Science"
+    citationCount 24.0
+    totalCssPapers 5
+    yearFirst 2012.0
+    group 58
+  ]
+  node [
+    id 170
+    label "144182945"
+    name "M. Batty"
+    topField "Economics"
+    citationCount 85.0
+    totalCssPapers 1
+    yearFirst 2013.0
+    group 7
+  ]
+  node [
+    id 171
+    label "1783512"
+    name "Hyejin Youn"
+    topField "Economics"
+    citationCount 6.0
+    totalCssPapers 13
+    yearFirst 2009.0
+    group 7
+  ]
+  node [
+    id 172
+    label "2477666"
+    name "Siuli Roy"
+    topField "Computer Science"
+    citationCount 1.0
+    totalCssPapers 3
+    yearFirst 2016.0
+    group 43
+  ]
+  node [
+    id 173
+    label "2301985"
+    name "Joanna Asia Biega"
+    topField "Computer Science"
+    citationCount 38.0
+    totalCssPapers 1
+    yearFirst 2013.0
+    group 0
+  ]
+  node [
+    id 174
+    label "2698329"
+    name "M. Karsai"
+    topField "Computer Science"
+    citationCount 19.5
+    totalCssPapers 18
+    yearFirst 2014.0
+    group 20
+  ]
+  node [
+    id 175
+    label "144272453"
+    name "Flavio Vinicius Diniz De Figueiredo"
+    topField "Computer Science"
+    citationCount 28.0
+    totalCssPapers 1
+    yearFirst 2019.0
+    group 36
+  ]
+  node [
+    id 176
+    label "2362490"
+    name "Oana Goga"
+    topField "Computer Science"
+    citationCount 71.0
+    totalCssPapers 1
+    yearFirst 2018.0
+    group 53
+  ]
+  node [
+    id 177
+    label "40685956"
+    name "Vitor Mangaravite"
+    topField "Computer Science"
+    citationCount 157.5
+    totalCssPapers 2
+    yearFirst 2018.0
+    group 73
+  ]
+  node [
+    id 178
+    label "1799402"
+    name "Amitabha Bagchi"
+    topField "Computer Science"
+    citationCount 0.5
+    totalCssPapers 4
+    yearFirst 2022.0
+    group 43
+  ]
+  node [
+    id 179
+    label "1734731"
+    name "P. V. Kumaraguru"
+    topField "Computer Science"
+    citationCount 2.0
+    totalCssPapers 10
+    yearFirst 2010.0
+    group 28
+  ]
+  node [
+    id 180
+    label "50139333"
+    name "Giulia Cencetti"
+    topField "Computer Science"
+    citationCount 29.0
+    totalCssPapers 3
+    yearFirst 2014.0
+    group 7
+  ]
+  node [
+    id 181
+    label "2535806"
+    name "Tiziano Squartini"
+    topField "Computer Science"
+    citationCount 19.0
+    totalCssPapers 23
+    yearFirst 2011.0
+    group 6
+  ]
+  node [
+    id 182
+    label "35650661"
+    name "Andrea Cairoli"
+    topField "Mathematics"
+    citationCount 27.0
+    totalCssPapers 1
+    yearFirst 2015.0
+    group 5
+  ]
+  node [
+    id 183
+    label "2152820251"
+    name "Yan Zhang"
+    topField "Computer Science"
+    citationCount 5.0
+    totalCssPapers 1
+    yearFirst 2021.0
+    group 87
+  ]
+  node [
+    id 184
+    label "145519038"
+    name "Kyriaki Kalimeri"
+    topField "Psychology"
+    citationCount 15.0
+    totalCssPapers 5
+    yearFirst 2012.0
+    group 17
+  ]
+  node [
+    id 185
+    label "1776482"
+    name "Em&#246;ke-&#225;gnes Horvat"
+    topField "Computer Science"
+    citationCount 6.0
+    totalCssPapers 2
+    yearFirst 2018.0
+    group 81
+  ]
+  node [
+    id 186
+    label "49248752"
+    name "Sebastian Stier"
+    topField "Political Science"
+    citationCount 125.0
+    totalCssPapers 4
+    yearFirst 2018.0
+    group 35
+  ]
+  node [
+    id 187
+    label "2111744567"
+    name "Yuhao Du"
+    topField "Sociology"
+    citationCount 0.0
+    totalCssPapers 2
+    yearFirst 2022.0
+    group 55
+  ]
+  node [
+    id 188
+    label "2019709018"
+    name "Long Wang"
+    topField "Economics"
+    citationCount 28.5
+    totalCssPapers 6
+    yearFirst 2013.0
+    group 5
+  ]
+  node [
+    id 189
+    label "1715830"
+    name "V. D. Blondel"
+    topField "Mathematics"
+    citationCount 144.0
+    totalCssPapers 1
+    yearFirst 2014.0
+    group 63
+  ]
+  node [
+    id 190
+    label "2101664"
+    name "Tiago De Paula Peixoto"
+    topField "Computer Science"
+    citationCount 8.0
+    totalCssPapers 3
+    yearFirst 2012.0
+    group 85
+  ]
+  node [
+    id 191
+    label "1690892"
+    name "Raquel Oliviera Prates"
+    topField "Computer Science"
+    citationCount 3.0
+    totalCssPapers 5
+    yearFirst 2011.0
+    group 53
+  ]
+  node [
+    id 192
+    label "144278875"
+    name "Julio Cesar Dos Reis"
+    topField "Computer Science"
+    citationCount 26.0
+    totalCssPapers 10
+    yearFirst 2009.0
+    group 53
+  ]
+  node [
+    id 193
+    label "2414047"
+    name "Carlos Sarraute"
+    topField "Computer Science"
+    citationCount 24.0
+    totalCssPapers 11
+    yearFirst 2016.0
+    group 20
+  ]
+  node [
+    id 194
+    label "21621673"
+    name "M J Gelfand"
+    topField "Psychology"
+    citationCount 18.5
+    totalCssPapers 2
+    yearFirst 2018.0
+    group 30
+  ]
+  node [
+    id 195
+    label "1703362"
+    name "Giovanni Aloisio"
+    topField "Computer Science"
+    citationCount 7.0
+    totalCssPapers 3
+    yearFirst 2009.0
+    group 8
+  ]
+  node [
+    id 196
+    label "2164700146"
+    name "Anjali Gupta"
+    topField "Economics"
+    citationCount 0.0
+    totalCssPapers 2
+    yearFirst 2022.0
+    group 43
+  ]
+  node [
+    id 197
+    label "1403820241"
+    name "J. I Alvarez-hamelin"
+    topField "Computer Science"
+    citationCount 58.0
+    totalCssPapers 2
+    yearFirst 2016.0
+    group 20
+  ]
+  node [
+    id 198
+    label "144988054"
+    name "Adiya Abisheva"
+    topField "Computer Science"
+    citationCount 33.0
+    totalCssPapers 2
+    yearFirst 2015.0
+    group 6
+  ]
+  node [
+    id 199
+    label "2055648"
+    name "Marcelo Serrano Zanetti"
+    topField "Computer Science"
+    citationCount 35.0
+    totalCssPapers 2
+    yearFirst 2013.0
+    group 6
+  ]
+  node [
+    id 200
+    label "1796314"
+    name "I. Scholtes"
+    topField "Computer Science"
+    citationCount 9.0
+    totalCssPapers 7
+    yearFirst 2012.0
+    group 6
+  ]
+  node [
+    id 201
+    label "2053301059"
+    name "Gabriel Santos Lima"
+    topField "Medicine"
+    citationCount 5.0
+    totalCssPapers 3
+    yearFirst 2022.0
+    group 17
+  ]
+  node [
+    id 202
+    label "1733769"
+    name "Edleno Silva De Moura"
+    topField "Computer Science"
+    citationCount 6.5
+    totalCssPapers 4
+    yearFirst 2012.0
+    group 44
+  ]
+  node [
+    id 203
+    label "145461283"
+    name "Nigini Abilio. Oliveira"
+    topField "Computer Science"
+    citationCount 13.5
+    totalCssPapers 4
+    yearFirst 2013.0
+    group 3
+  ]
+  node [
+    id 204
+    label "33295892"
+    name "Cristian Vaccari"
+    topField "Political Science"
+    citationCount 2.0
+    totalCssPapers 4
+    yearFirst 2020.0
+    group 35
+  ]
+  node [
+    id 205
+    label "2129935"
+    name "Mohammad Ali Safari"
+    topField "Computer Science"
+    citationCount 5.0
+    totalCssPapers 2
+    yearFirst 2011.0
+    group 18
+  ]
+  node [
+    id 206
+    label "51965804"
+    name "Luca Verginer"
+    topField "Economics"
+    citationCount 5.0
+    totalCssPapers 4
+    yearFirst 2014.0
+    group 6
+  ]
+  node [
+    id 207
+    label "9957987"
+    name "Giacomo Vaccario"
+    topField "Economics"
+    citationCount 5.0
+    totalCssPapers 6
+    yearFirst 2014.0
+    group 6
+  ]
+  node [
+    id 208
+    label "51913730"
+    name "Claes De Vreese"
+    topField "Political Science"
+    citationCount 0.0
+    totalCssPapers 3
+    yearFirst 2022.0
+    group 35
+  ]
+  node [
+    id 209
+    label "144240725"
+    name "David Garcia"
+    topField "Computer Science"
+    citationCount 104.0
+    totalCssPapers 18
+    yearFirst 2013.0
+    group 6
+  ]
+  node [
+    id 210
+    label "1783914"
+    name "Duncan J Watts"
+    topField "Computer Science"
+    citationCount 29.0
+    totalCssPapers 28
+    yearFirst 2009.0
+    group 13
+  ]
+  node [
+    id 211
+    label "2496439"
+    name "Magdalena Wojcieszak"
+    topField "Psychology"
+    citationCount 3.5
+    totalCssPapers 2
+    yearFirst 2021.0
+    group 64
+  ]
+  node [
+    id 212
+    label "2099734"
+    name "Ginestra Bianconi"
+    topField "Computer Science"
+    citationCount 28.0
+    totalCssPapers 4
+    yearFirst 2012.0
+    group 5
+  ]
+  node [
+    id 213
+    label "145249172"
+    name "Hans J&#252;rgen Herrmann"
+    topField "Physics"
+    citationCount 67.0
+    totalCssPapers 9
+    yearFirst 2011.0
+    group 5
+  ]
+  node [
+    id 214
+    label "2894881"
+    name "Chenhui Guo"
+    topField "Business"
+    citationCount 122.0
+    totalCssPapers 1
+    yearFirst 2016.0
+    group 11
+  ]
+  node [
+    id 215
+    label "144656270"
+    name "Vsevolod Salnikov"
+    topField "Computer Science"
+    citationCount 3.5
+    totalCssPapers 4
+    yearFirst 2013.0
+    group 7
+  ]
+  node [
+    id 216
+    label "2440972"
+    name "Ashkan Nikravesh"
+    topField "Computer Science"
+    citationCount 175.0
+    totalCssPapers 2
+    yearFirst 2012.0
+    group 35
+  ]
+  node [
+    id 217
+    label "144558957"
+    name "Peter Ferguson"
+    topField "Education"
+    citationCount 85.0
+    totalCssPapers 1
+    yearFirst 2013.0
+    group 7
+  ]
+  node [
+    id 218
+    label "34823658"
+    name "Mirella Moura Moro"
+    topField "Computer Science"
+    citationCount 10.0
+    totalCssPapers 1
+    yearFirst 2015.0
+    group 14
+  ]
+  node [
+    id 219
+    label "2357626"
+    name "Ana Cristina Pereira Da Silva"
+    topField "Computer Science"
+    citationCount 5.0
+    totalCssPapers 2
+    yearFirst 2013.0
+    group 14
+  ]
+  node [
+    id 220
+    label "2117981295"
+    name "Jingwen Zhang"
+    topField "Computer Science"
+    citationCount 1.0
+    totalCssPapers 1
+    yearFirst 2022.0
+    group 81
+  ]
+  node [
+    id 221
+    label "2157480"
+    name "David Rand"
+    topField "Psychology"
+    citationCount 27.0
+    totalCssPapers 4
+    yearFirst 2012.0
+    group 37
+  ]
+  node [
+    id 222
+    label "48837352"
+    name "Mohsen Mosleh"
+    topField "Materials Science"
+    citationCount 15.0
+    totalCssPapers 5
+    yearFirst 2015.0
+    group 37
+  ]
+  node [
+    id 223
+    label "145624017"
+    name "Virg&#305;&#769;lio Almeida"
+    topField "Computer Science"
+    citationCount 90.0
+    totalCssPapers 3
+    yearFirst 2013.0
+    group 17
+  ]
+  node [
+    id 224
+    label "2072792612"
+    name "Sandeep Chowdhary"
+    topField "Computer Science"
+    citationCount 3.5
+    totalCssPapers 2
+    yearFirst 2021.0
+    group 5
+  ]
+  node [
+    id 225
+    label "144054829"
+    name "Tanmoy Chakraborty"
+    topField "Computer Science"
+    citationCount 1.0
+    totalCssPapers 4
+    yearFirst 2017.0
+    group 28
+  ]
+  node [
+    id 226
+    label "1914360"
+    name "Jyrki Piilo"
+    topField "Physics"
+    citationCount 39.0
+    totalCssPapers 7
+    yearFirst 2010.0
+    group 42
+  ]
+  node [
+    id 227
+    label "2622687"
+    name "Rosario N. Mantegna"
+    topField "Economics"
+    citationCount 18.5
+    totalCssPapers 12
+    yearFirst 2010.0
+    group 42
+  ]
+  node [
+    id 228
+    label "3528206"
+    name "Emre Kiciman"
+    topField "Computer Science"
+    citationCount 34.0
+    totalCssPapers 2
+    yearFirst 2021.0
+    group 81
+  ]
+  node [
+    id 229
+    label "1397398770"
+    name "T Eliassi-rad"
+    topField "Computer Science"
+    citationCount 34.0
+    totalCssPapers 3
+    yearFirst 2011.0
+    group 81
+  ]
+  node [
+    id 230
+    label "2140221"
+    name "Emilio Zagheni"
+    topField "Economics"
+    citationCount 22.0
+    totalCssPapers 18
+    yearFirst 2012.0
+    group 53
+  ]
+  node [
+    id 231
+    label "37879285"
+    name "Inho Hong"
+    topField "Economics"
+    citationCount 10.0
+    totalCssPapers 6
+    yearFirst 2020.0
+    group 17
+  ]
+  node [
+    id 232
+    label "48387892"
+    name "G. Senthil Kumar"
+    topField "Computer Science"
+    citationCount 6.0
+    totalCssPapers 11
+    yearFirst 2012.0
+    group 9
+  ]
+  node [
+    id 233
+    label "1743723"
+    name "Alex Borges Vieira"
+    topField "Computer Science"
+    citationCount 33.0
+    totalCssPapers 1
+    yearFirst 2019.0
+    group 36
+  ]
+  node [
+    id 234
+    label "48829479"
+    name "Karandeep Singh."
+    topField "Medicine"
+    citationCount 6.0
+    totalCssPapers 8
+    yearFirst 2020.0
+    group 17
+  ]
+  node [
+    id 235
+    label "143798966"
+    name "Geoffrey B. West"
+    topField "Biology"
+    citationCount 98.0
+    totalCssPapers 1
+    yearFirst 2021.0
+    group 63
+  ]
+  node [
+    id 236
+    label "1703727"
+    name "Adish Kumar Singla"
+    topField "Computer Science"
+    citationCount 143.5
+    totalCssPapers 2
+    yearFirst 2013.0
+    group 19
+  ]
+  node [
+    id 237
+    label "1917752"
+    name "Paul Barford"
+    topField "Computer Science"
+    citationCount 9.0
+    totalCssPapers 3
+    yearFirst 2012.0
+    group 82
+  ]
+  node [
+    id 238
+    label "143841814"
+    name "Saptarshi Ghosh"
+    topField "Computer Science"
+    citationCount 6.0
+    totalCssPapers 8
+    yearFirst 2017.0
+    group 43
+  ]
+  node [
+    id 239
+    label "1712423"
+    name "Guido Caldarelli"
+    topField "Computer Science"
+    citationCount 47.0
+    totalCssPapers 5
+    yearFirst 2015.0
+    group 6
+  ]
+  node [
+    id 240
+    label "1769221"
+    name "Michael T. Gastner"
+    topField "Mathematics"
+    citationCount 1.0
+    totalCssPapers 5
+    yearFirst 2009.0
+    group 7
+  ]
+  node [
+    id 241
+    label "9651432"
+    name "Micha&#322; K&#246;nig"
+    topField "Economics"
+    citationCount 99.0
+    totalCssPapers 3
+    yearFirst 2011.0
+    group 6
+  ]
+  node [
+    id 242
+    label "1706831"
+    name "Renaud Lambiotte"
+    topField "Computer Science"
+    citationCount 1.0
+    totalCssPapers 10
+    yearFirst 2013.0
+    group 7
+  ]
+  node [
+    id 243
+    label "31897723"
+    name "Somprakash Bandyopadhyay"
+    topField "Computer Science"
+    citationCount 1.0
+    totalCssPapers 11
+    yearFirst 2016.0
+    group 43
+  ]
+  node [
+    id 244
+    label "143720592"
+    name "Eric Fleury"
+    topField "Computer Science"
+    citationCount 19.5
+    totalCssPapers 6
+    yearFirst 2016.0
+    group 20
+  ]
+  node [
+    id 245
+    label "3118802"
+    name "Jean-Philippe Magu&#233;"
+    topField "Computer Science"
+    citationCount 26.0
+    totalCssPapers 1
+    yearFirst 2018.0
+    group 20
+  ]
+  node [
+    id 246
+    label "145026954"
+    name "Jean-charles Delvenne"
+    topField "Computer Science"
+    citationCount 8.0
+    totalCssPapers 3
+    yearFirst 2013.0
+    group 68
+  ]
+  node [
+    id 247
+    label "2483782"
+    name "Mauro Napoletano"
+    topField "Economics"
+    citationCount 78.0
+    totalCssPapers 3
+    yearFirst 2011.0
+    group 6
+  ]
+  node [
+    id 248
+    label "2411946"
+    name "Filipe Ribeiro"
+    topField "Computer Science"
+    citationCount 17.5
+    totalCssPapers 4
+    yearFirst 2018.0
+    group 53
+  ]
+  node [
+    id 249
+    label "40913396"
+    name "Jacobo Levy Abitbol"
+    topField "Computer Science"
+    citationCount 15.5
+    totalCssPapers 2
+    yearFirst 2018.0
+    group 20
+  ]
+  node [
+    id 250
+    label "2821130"
+    name "D. J. Crandall"
+    topField "Computer Science"
+    citationCount 41.0
+    totalCssPapers 3
+    yearFirst 2010.0
+    group 31
+  ]
+  node [
+    id 251
+    label "2391370"
+    name "Elissa Redmiles"
+    topField "Computer Science"
+    citationCount 7.0
+    totalCssPapers 12
+    yearFirst 2016.0
+    group 53
+  ]
+  node [
+    id 252
+    label "145670814"
+    name "K. Kaski"
+    topField "Computer Science"
+    citationCount 4.0
+    totalCssPapers 3
+    yearFirst 2016.0
+    group 20
+  ]
+  node [
+    id 253
+    label "4410019"
+    name "Esteban Moro Egido"
+    topField "Computer Science"
+    citationCount 11.0
+    totalCssPapers 10
+    yearFirst 2013.0
+    group 17
+  ]
+  node [
+    id 254
+    label "40385687"
+    name "Judy Hanwen Shen"
+    topField "Computer Science"
+    citationCount 0.0
+    totalCssPapers 1
+    yearFirst 2022.0
+    group 17
+  ]
+  node [
+    id 255
+    label "1863307"
+    name "Michael W. Macy"
+    topField "Economics"
+    citationCount 77.0
+    totalCssPapers 4
+    yearFirst 2015.0
+    group 63
+  ]
+  node [
+    id 256
+    label "3475001"
+    name "Johnt. Jost"
+    topField "Psychology"
+    citationCount 443.0
+    totalCssPapers 1
+    yearFirst 2017.0
+    group 35
+  ]
+  node [
+    id 257
+    label "3381971"
+    name "Chris Riedl"
+    topField "Business"
+    citationCount 4.0
+    totalCssPapers 1
+    yearFirst 2018.0
+    group 55
+  ]
+  node [
+    id 258
+    label "1838478"
+    name "Brian Dondiego Uzzi"
+    topField "Business"
+    citationCount 6.0
+    totalCssPapers 5
+    yearFirst 2016.0
+    group 81
+  ]
+  node [
+    id 259
+    label "2065172027"
+    name "Lucas Henrique"
+    topField "Computer Science"
+    citationCount 71.0
+    totalCssPapers 1
+    yearFirst 2018.0
+    group 53
+  ]
+  node [
+    id 260
+    label "100760035"
+    name "Wonjae Lee"
+    topField "Art"
+    citationCount 5.0
+    totalCssPapers 9
+    yearFirst 2020.0
+    group 17
+  ]
+  node [
+    id 261
+    label "51305978"
+    name "Breno De Sousa Matos"
+    topField "Computer Science"
+    citationCount 13.5
+    totalCssPapers 2
+    yearFirst 2018.0
+    group 36
+  ]
+  node [
+    id 262
+    label "1399519070"
+    name "Unai Alvarez-rodriguez"
+    topField "Physics"
+    citationCount 3.0
+    totalCssPapers 3
+    yearFirst 2020.0
+    group 5
+  ]
+  node [
+    id 263
+    label "1403978052"
+    name "Felix Reed-tsochas"
+    topField "Business"
+    citationCount 24.0
+    totalCssPapers 1
+    yearFirst 2015.0
+    group 20
+  ]
+  node [
+    id 264
+    label "31558629"
+    name "Valerio Capraro"
+    topField "Psychology"
+    citationCount 7.0
+    totalCssPapers 1
+    yearFirst 2021.0
+    group 5
+  ]
+  node [
+    id 265
+    label "1388404108"
+    name "Manuel Gomez-rodriguez"
+    topField "Computer Science"
+    citationCount 0.0
+    totalCssPapers 2
+    yearFirst 2022.0
+    group 72
+  ]
+  node [
+    id 266
+    label "35139296"
+    name "Laetitia Gauvin"
+    topField "Computer Science"
+    citationCount 3.0
+    totalCssPapers 2
+    yearFirst 2021.0
+    group 63
+  ]
+  node [
+    id 267
+    label "39963117"
+    name "J. Wachs"
+    topField "Economics"
+    citationCount 27.5
+    totalCssPapers 2
+    yearFirst 2018.0
+    group 55
+  ]
+  node [
+    id 268
+    label "1699732"
+    name "Sayan Ranu"
+    topField "Computer Science"
+    citationCount 0.5
+    totalCssPapers 4
+    yearFirst 2022.0
+    group 43
+  ]
+  node [
+    id 269
+    label "38451395"
+    name "Marta Gonzalez"
+    topField "Computer Science"
+    citationCount 80.0
+    totalCssPapers 5
+    yearFirst 2011.0
+    group 17
+  ]
+  node [
+    id 270
+    label "1801245727"
+    name "Jean Pierre Chevrot"
+    topField "Linguistics"
+    citationCount 26.0
+    totalCssPapers 1
+    yearFirst 2018.0
+    group 20
+  ]
+  node [
+    id 271
+    label "2153876524"
+    name "Aleksandra Urman"
+    topField "Computer Science"
+    citationCount 0.0
+    totalCssPapers 2
+    yearFirst 2019.0
+    group 55
+  ]
+  node [
+    id 272
+    label "2153909151"
+    name "David Garcia"
+    topField "Economics"
+    citationCount 0.0
+    totalCssPapers 1
+    yearFirst 2022.0
+    group 55
+  ]
+  node [
+    id 273
+    label "144044007"
+    name "A Nair"
+    topField "Medicine"
+    citationCount 1.0
+    totalCssPapers 2
+    yearFirst 2022.0
+    group 43
+  ]
+  node [
+    id 274
+    label "145677428"
+    name "Wojtek Przepiorka"
+    topField "Economics"
+    citationCount 0.0
+    totalCssPapers 1
+    yearFirst 2022.0
+    group 25
+  ]
+  node [
+    id 275
+    label "5903133"
+    name "Naomi Ellemers"
+    topField "Psychology"
+    citationCount 0.0
+    totalCssPapers 1
+    yearFirst 2022.0
+    group 25
+  ]
+  node [
+    id 276
+    label "1680270"
+    name "Karrie G. Karahalios"
+    topField "Computer Science"
+    citationCount 50.5
+    totalCssPapers 4
+    yearFirst 2010.0
+    group 27
+  ]
+  node [
+    id 277
+    label "1723195"
+    name "Stefan Thurner"
+    topField "Economics"
+    citationCount 30.0
+    totalCssPapers 5
+    yearFirst 2009.0
+    group 63
+  ]
+  node [
+    id 278
+    label "2005765789"
+    name "Kiran Kumar Garimella"
+    topField "Computer Science"
+    citationCount 3.0
+    totalCssPapers 2
+    yearFirst 2023.0
+    group 37
+  ]
+  node [
+    id 279
+    label "145617731"
+    name "Bruno J. F. Ribeiro"
+    topField "Computer Science"
+    citationCount 4.0
+    totalCssPapers 3
+    yearFirst 2014.0
+    group 69
+  ]
+  node [
+    id 280
+    label "144828606"
+    name "Marisa Lima De Vasconcelos"
+    topField "Computer Science"
+    citationCount 2.0
+    totalCssPapers 3
+    yearFirst 2019.0
+    group 36
+  ]
+  node [
+    id 281
+    label "1490970698"
+    name "Dashun Wang"
+    topField "Education"
+    citationCount 72.0
+    totalCssPapers 2
+    yearFirst 2014.0
+    group 63
+  ]
+  node [
+    id 282
+    label "2751909"
+    name "Bal&#225;zs Lengyel"
+    topField "Economics"
+    citationCount 6.0
+    totalCssPapers 1
+    yearFirst 2021.0
+    group 20
+  ]
+  node [
+    id 283
+    label "143892297"
+    name "Palash Dey"
+    topField "Computer Science"
+    citationCount 3.0
+    totalCssPapers 13
+    yearFirst 2013.0
+    group 43
+  ]
+  node [
+    id 284
+    label "30904401"
+    name "Dmitri C. Williams"
+    topField "Psychology"
+    citationCount 50.5
+    totalCssPapers 6
+    yearFirst 2009.0
+    group 81
+  ]
+  node [
+    id 285
+    label "83427662"
+    name "Agnieszka St&#553;pi&#324;ska"
+    topField "Political Science"
+    citationCount 0.0
+    totalCssPapers 2
+    yearFirst 2022.0
+    group 35
+  ]
+  node [
+    id 286
+    label "2288762"
+    name "Markus Michael Geipel"
+    topField "Computer Science"
+    citationCount 4.0
+    totalCssPapers 3
+    yearFirst 2009.0
+    group 6
+  ]
+  node [
+    id 287
+    label "84222746"
+    name "Daniel Burkhardt Cerigo"
+    topField "Economics"
+    citationCount 23.0
+    totalCssPapers 2
+    yearFirst 2015.0
+    group 7
+  ]
+  node [
+    id 288
+    label "31908706"
+    name "Asia Biega"
+    topField "Computer Science"
+    citationCount 4.0
+    totalCssPapers 5
+    yearFirst 2019.0
+    group 43
+  ]
+  node [
+    id 289
+    label "153085268"
+    name "Cameron Martel"
+    topField "Psychology"
+    citationCount 34.0
+    totalCssPapers 2
+    yearFirst 2020.0
+    group 37
+  ]
+  node [
+    id 290
+    label "1996878"
+    name "Dean Eckles"
+    topField "Computer Science"
+    citationCount 20.0
+    totalCssPapers 15
+    yearFirst 2017.0
+    group 37
+  ]
+  node [
+    id 291
+    label "3347169"
+    name "C&#233;line Rozenblat"
+    topField "History"
+    citationCount 149.0
+    totalCssPapers 1
+    yearFirst 2010.0
+    group 5
+  ]
+  node [
+    id 292
+    label "81975078"
+    name "Stefania Ionescu"
+    topField "Sociology"
+    citationCount 0.0
+    totalCssPapers 4
+    yearFirst 2021.0
+    group 55
+  ]
+  node [
+    id 293
+    label "2746035"
+    name "Tobias Scholl"
+    topField "Computer Science"
+    citationCount 4.0
+    totalCssPapers 5
+    yearFirst 2015.0
+    group 52
+  ]
+  node [
+    id 294
+    label "2131253914"
+    name "Negar Mohammadi"
+    topField "Sociology"
+    citationCount 3.0
+    totalCssPapers 2
+    yearFirst 2021.0
+    group 43
+  ]
+  node [
+    id 295
+    label "1747805"
+    name "Matei Ripeanu"
+    topField "Computer Science"
+    citationCount 53.0
+    totalCssPapers 2
+    yearFirst 2012.0
+    group 24
+  ]
+  node [
+    id 296
+    label "3129259"
+    name "Evangelos Pournaras"
+    topField "Computer Science"
+    citationCount 46.5
+    totalCssPapers 2
+    yearFirst 2015.0
+    group 5
+  ]
+  node [
+    id 297
+    label "1729928"
+    name "Alan E. Mislove"
+    topField "Computer Science"
+    citationCount 219.0
+    totalCssPapers 4
+    yearFirst 2013.0
+    group 81
+  ]
+  node [
+    id 298
+    label "80273596"
+    name "Alessandro Vespignani"
+    topField "Medicine"
+    citationCount 418.5
+    totalCssPapers 2
+    yearFirst 2009.0
+    group 6
+  ]
+  node [
+    id 299
+    label "145426366"
+    name "Mario Chavez"
+    topField "Biology"
+    citationCount 0.0
+    totalCssPapers 1
+    yearFirst 2014.0
+    group 5
+  ]
+  node [
+    id 300
+    label "1691267"
+    name "Wagner Meira"
+    topField "Computer Science"
+    citationCount 4.0
+    totalCssPapers 3
+    yearFirst 2009.0
+    group 11
+  ]
+  node [
+    id 301
+    label "1690426"
+    name "Altigran Soares Da Silva"
+    topField "Computer Science"
+    citationCount 13.0
+    totalCssPapers 2
+    yearFirst 2015.0
+    group 44
+  ]
+  node [
+    id 302
+    label "30682542"
+    name "Drew Margolin"
+    topField "Psychology"
+    citationCount 11.0
+    totalCssPapers 1
+    yearFirst 2016.0
+    group 55
+  ]
+  node [
+    id 303
+    label "9542883"
+    name "Olga Zagovora"
+    topField "Computer Science"
+    citationCount 0.0
+    totalCssPapers 2
+    yearFirst 2018.0
+    group 81
+  ]
+  node [
+    id 304
+    label "40068190"
+    name "Mainack Mondal"
+    topField "Computer Science"
+    citationCount 9.0
+    totalCssPapers 1
+    yearFirst 2021.0
+    group 43
+  ]
+  node [
+    id 305
+    label "1702392"
+    name "Christos Nick Faloutsos"
+    topField "Computer Science"
+    citationCount 4.0
+    totalCssPapers 3
+    yearFirst 2015.0
+    group 86
+  ]
+  node [
+    id 306
+    label "1744895"
+    name "Didier Sornette"
+    topField "Economics"
+    citationCount 133.0
+    totalCssPapers 3
+    yearFirst 2009.0
+    group 6
+  ]
+  node [
+    id 307
+    label "143607285"
+    name "Fernando Mourao"
+    topField "Computer Science"
+    citationCount 2.0
+    totalCssPapers 1
+    yearFirst 2009.0
+    group 11
+  ]
+  node [
+    id 308
+    label "145534473"
+    name "Leonardo C. Da Rocha"
+    topField "Computer Science"
+    citationCount 2.0
+    totalCssPapers 1
+    yearFirst 2009.0
+    group 11
+  ]
+  node [
+    id 309
+    label "1699369"
+    name "Venkata Rama Kiran Garimella"
+    topField "Computer Science"
+    citationCount 20.0
+    totalCssPapers 18
+    yearFirst 2013.0
+    group 63
+  ]
+  node [
+    id 310
+    label "1931731"
+    name "Giorgio Fagiolo"
+    topField "Economics"
+    citationCount 97.5
+    totalCssPapers 6
+    yearFirst 2009.0
+    group 6
+  ]
+  node [
+    id 311
+    label "144373940"
+    name "Anders Johansson"
+    topField "Computer Science"
+    citationCount 85.0
+    totalCssPapers 1
+    yearFirst 2013.0
+    group 7
+  ]
+  node [
+    id 312
+    label "30717442"
+    name "Sanjeev Goyal"
+    topField "Economics"
+    citationCount 5.0
+    totalCssPapers 2
+    yearFirst 2019.0
+    group 5
+  ]
+  node [
+    id 313
+    label "6199827"
+    name "Paolo Tasca"
+    topField "Economics"
+    citationCount 30.0
+    totalCssPapers 1
+    yearFirst 2013.0
+    group 6
+  ]
+  node [
+    id 314
+    label "2618549"
+    name "Pavlin Mavrodiev"
+    topField "Computer Science"
+    citationCount 22.5
+    totalCssPapers 8
+    yearFirst 2012.0
+    group 6
+  ]
+  node [
+    id 315
+    label "80536505"
+    name "Orsolya Vasarhelyi"
+    topField "Economics"
+    citationCount 8.0
+    totalCssPapers 1
+    yearFirst 2019.0
+    group 83
+  ]
+  node [
+    id 316
+    label "39967853"
+    name "Saikat Guha"
+    topField "Computer Science"
+    citationCount 1.0
+    totalCssPapers 1
+    yearFirst 2010.0
+    group 62
+  ]
+  node [
+    id 317
+    label "47399811"
+    name "Robert S. Sinatra"
+    topField "Education"
+    citationCount 125.0
+    totalCssPapers 3
+    yearFirst 2011.0
+    group 63
+  ]
+  node [
+    id 318
+    label "143973056"
+    name "Marco Paulo Amorim Vieira"
+    topField "Computer Science"
+    citationCount 2.0
+    totalCssPapers 1
+    yearFirst 2012.0
+    group 91
+  ]
+  node [
+    id 319
+    label "2159190453"
+    name "Jie Zhang"
+    topField "Economics"
+    citationCount 0.0
+    totalCssPapers 1
+    yearFirst 2019.0
+    group 20
+  ]
+  node [
+    id 320
+    label "144633779"
+    name "Paula L W Sabloff"
+    topField "Sociology"
+    citationCount 1.0
+    totalCssPapers 1
+    yearFirst 2017.0
+    group 7
+  ]
+  node [
+    id 321
+    label "47632726"
+    name "Qiusi Sun"
+    topField "Psychology"
+    citationCount 3.0
+    totalCssPapers 1
+    yearFirst 2021.0
+    group 64
+  ]
+  node [
+    id 322
+    label "152356803"
+    name "Abir De"
+    topField "Computer Science"
+    citationCount 0.0
+    totalCssPapers 2
+    yearFirst 2022.0
+    group 72
+  ]
+  node [
+    id 323
+    label "19213617"
+    name "James Flamino"
+    topField "Computer Science"
+    citationCount 2.0
+    totalCssPapers 2
+    yearFirst 2021.0
+    group 81
+  ]
+  node [
+    id 324
+    label "2570515"
+    name "Leto Peel"
+    topField "Computer Science"
+    citationCount 7.0
+    totalCssPapers 1
+    yearFirst 2018.0
+    group 10
+  ]
+  node [
+    id 325
+    label "2667570"
+    name "R. L Breiger"
+    topField "Computer Science"
+    citationCount 21.0
+    totalCssPapers 1
+    yearFirst 2018.0
+    group 66
+  ]
+  node [
+    id 326
+    label "1379969603"
+    name "Judith E. M&#246;ller"
+    topField "Political Science"
+    citationCount 0.0
+    totalCssPapers 2
+    yearFirst 2022.0
+    group 35
+  ]
+  node [
+    id 327
+    label "2822483"
+    name "Luca Vassio"
+    topField "Computer Science"
+    citationCount 0.0
+    totalCssPapers 1
+    yearFirst 2021.0
+    group 23
+  ]
+  node [
+    id 328
+    label "2177069496"
+    name "Marco Alberto Javarone"
+    topField "Computer Science"
+    citationCount 14.5
+    totalCssPapers 2
+    yearFirst 2015.0
+    group 5
+  ]
+  node [
+    id 329
+    label "1687610"
+    name "Simon Colton"
+    topField "Computer Science"
+    citationCount 11.5
+    totalCssPapers 2
+    yearFirst 2010.0
+    group 50
+  ]
+  node [
+    id 330
+    label "3241784"
+    name "Uwe Serdu&#776;lt"
+    topField "Political Science"
+    citationCount 65.0
+    totalCssPapers 1
+    yearFirst 2015.0
+    group 6
+  ]
+  node [
+    id 331
+    label "144040959"
+    name "M.n.c. Araujo"
+    topField "Computer Science"
+    citationCount 0.0
+    totalCssPapers 1
+    yearFirst 2020.0
+    group 16
+  ]
+  node [
+    id 332
+    label "6722514"
+    name "Wooseok Jung"
+    topField "Economics"
+    citationCount 16.0
+    totalCssPapers 5
+    yearFirst 2020.0
+    group 17
+  ]
+  node [
+    id 333
+    label "1790849"
+    name "Pantelis Vikatos"
+    topField "Computer Science"
+    citationCount 40.0
+    totalCssPapers 2
+    yearFirst 2017.0
+    group 53
+  ]
+  node [
+    id 334
+    label "5040241"
+    name "Luca Marotta"
+    topField "Economics"
+    citationCount 26.0
+    totalCssPapers 4
+    yearFirst 2014.0
+    group 42
+  ]
+  node [
+    id 335
+    label "144150151"
+    name "Thiago Taglialegna Salles"
+    topField "Computer Science"
+    citationCount 7.0
+    totalCssPapers 1
+    yearFirst 2019.0
+    group 38
+  ]
+  node [
+    id 336
+    label "2407173"
+    name "Arda Halu"
+    topField "Biology"
+    citationCount 68.0
+    totalCssPapers 1
+    yearFirst 2012.0
+    group 5
+  ]
+  node [
+    id 337
+    label "145151838"
+    name "Bela Gipp"
+    topField "Computer Science"
+    citationCount 5.0
+    totalCssPapers 1
+    yearFirst 2020.0
+    group 34
+  ]
+  node [
+    id 338
+    label "1484797547"
+    name "Aleksandra Urman"
+    topField "Computer Science"
+    citationCount 12.0
+    totalCssPapers 4
+    yearFirst 2020.0
+    group 55
+  ]
+  node [
+    id 339
+    label "2061878581"
+    name "Guillaume J. Laurent"
+    topField "Computer Science"
+    citationCount 63.0
+    totalCssPapers 1
+    yearFirst 2015.0
+    group 20
+  ]
+  node [
+    id 340
+    label "1705316"
+    name "Alberto Montresor"
+    topField "Computer Science"
+    citationCount 0.0
+    totalCssPapers 1
+    yearFirst 2019.0
+    group 56
+  ]
+  node [
+    id 341
+    label "46203249"
+    name "Carlo Campajola"
+    topField "Computer Science"
+    citationCount 11.0
+    totalCssPapers 1
+    yearFirst 2019.0
+    group 79
+  ]
+  node [
+    id 342
+    label "5003199"
+    name "David Deritei"
+    topField "Computer Science"
+    citationCount 8.0
+    totalCssPapers 1
+    yearFirst 2019.0
+    group 83
+  ]
+  node [
+    id 343
+    label "1702227"
+    name "Marco Gribaudo"
+    topField "Computer Science"
+    citationCount 14.0
+    totalCssPapers 2
+    yearFirst 2012.0
+    group 75
+  ]
+  node [
+    id 344
+    label "31796970"
+    name "Giona Casiraghi"
+    topField "Computer Science"
+    citationCount 5.0
+    totalCssPapers 2
+    yearFirst 2020.0
+    group 6
+  ]
+  node [
+    id 345
+    label "1755572"
+    name "Atri Principal Investigator Rudra"
+    topField "Computer Science"
+    citationCount 0.0
+    totalCssPapers 2
+    yearFirst 2022.0
+    group 55
+  ]
+  node [
+    id 346
+    label "3043728"
+    name "Mathieu G&#233;nois"
+    topField "Computer Science"
+    citationCount 9.0
+    totalCssPapers 1
+    yearFirst 2018.0
+    group 81
+  ]
+  node [
+    id 347
+    label "3414955"
+    name "Dirk Beyer"
+    topField "Computer Science"
+    citationCount 0.0
+    totalCssPapers 3
+    yearFirst 2010.0
+    group 46
+  ]
+  node [
+    id 348
+    label "1999088"
+    name "Azim F Shariff"
+    topField "Psychology"
+    citationCount 71.0
+    totalCssPapers 2
+    yearFirst 2020.0
+    group 17
+  ]
+  node [
+    id 349
+    label "11575056"
+    name "Debarshi. Sanyal"
+    topField "Computer Science"
+    citationCount 0.0
+    totalCssPapers 2
+    yearFirst 2009.0
+    group 74
+  ]
+  node [
+    id 350
+    label "145781376"
+    name "Robert West"
+    topField "Computer Science"
+    citationCount 11.0
+    totalCssPapers 1
+    yearFirst 2020.0
+    group 81
+  ]
+  node [
+    id 351
+    label "8090523"
+    name "N&#225;dia Puchalski Kozievitch"
+    topField "Computer Science"
+    citationCount 4.0
+    totalCssPapers 1
+    yearFirst 2016.0
+    group 59
+  ]
+  node [
+    id 352
+    label "3144230"
+    name "Rumi Chunara"
+    topField "Medicine"
+    citationCount 0.0
+    totalCssPapers 1
+    yearFirst 2021.0
+    group 63
+  ]
+  node [
+    id 353
+    label "38451921"
+    name "Beniamino Guerra"
+    topField "Psychology"
+    citationCount 10.0
+    totalCssPapers 4
+    yearFirst 2012.0
+    group 6
+  ]
+  node [
+    id 354
+    label "8813467"
+    name "Rebekka Burkholz"
+    topField "Computer Science"
+    citationCount 11.0
+    totalCssPapers 2
+    yearFirst 2016.0
+    group 6
+  ]
+  node [
+    id 355
+    label "1410457841"
+    name "Carolina Coimbra Vieira"
+    topField "Computer Science"
+    citationCount 0.0
+    totalCssPapers 3
+    yearFirst 2021.0
+    group 53
+  ]
+  node [
+    id 356
+    label "1938892"
+    name "Guilherme Vale Menezes"
+    topField "Computer Science"
+    citationCount 12.0
+    totalCssPapers 1
+    yearFirst 2012.0
+    group 44
+  ]
+  node [
+    id 357
+    label "1632706683"
+    name "Rafiazka Millanida Hilman"
+    topField "Economics"
+    citationCount 2.0
+    totalCssPapers 2
+    yearFirst 2021.0
+    group 20
+  ]
+  node [
+    id 358
+    label "1699657"
+    name "Allan Hanbury"
+    topField "Computer Science"
+    citationCount 18.0
+    totalCssPapers 1
+    yearFirst 2017.0
+    group 63
+  ]
+  node [
+    id 359
+    label "40577876"
+    name "Satyam Mukherjee"
+    topField "Computer Science"
+    citationCount 0.0
+    totalCssPapers 1
+    yearFirst 2022.0
+    group 81
+  ]
+  node [
+    id 360
+    label "2152819906"
+    name "Yan Zhang"
+    topField "Economics"
+    citationCount 6.0
+    totalCssPapers 1
+    yearFirst 2020.0
+    group 6
+  ]
+  node [
+    id 361
+    label "3407365"
+    name "Eszter Bok&#225;nyi"
+    topField "Computer Science"
+    citationCount 6.0
+    totalCssPapers 1
+    yearFirst 2021.0
+    group 20
+  ]
+  node [
+    id 362
+    label "2055262683"
+    name "A Nair"
+    topField "Economics"
+    citationCount 0.0
+    totalCssPapers 2
+    yearFirst 2022.0
+    group 43
+  ]
+  node [
+    id 363
+    label "39185298"
+    name "Gautier Krings"
+    topField "Computer Science"
+    citationCount 19.0
+    totalCssPapers 1
+    yearFirst 2013.0
+    group 68
+  ]
+  node [
+    id 364
+    label "31690611"
+    name "Dorian Tanase"
+    topField "Computer Science"
+    citationCount 27.0
+    totalCssPapers 1
+    yearFirst 2013.0
+    group 6
+  ]
+  node [
+    id 365
+    label "1825335"
+    name "Aline Carneiro Viana"
+    topField "Computer Science"
+    citationCount 25.5
+    totalCssPapers 2
+    yearFirst 2016.0
+    group 20
+  ]
+  node [
+    id 366
+    label "1685457"
+    name "Gisele Pappa"
+    topField "Computer Science"
+    citationCount 8.0
+    totalCssPapers 1
+    yearFirst 2012.0
+    group 33
+  ]
+  node [
+    id 367
+    label "116167122"
+    name "Kasper Otten"
+    topField "Economics"
+    citationCount 0.0
+    totalCssPapers 1
+    yearFirst 2022.0
+    group 25
+  ]
+  node [
+    id 368
+    label "1388020502"
+    name "Adrian M. Seufert"
+    topField "Computer Science"
+    citationCount 10.0
+    totalCssPapers 1
+    yearFirst 2019.0
+    group 6
+  ]
+  node [
+    id 369
+    label "1818176"
+    name "Mahmoud Babaei"
+    topField "Computer Science"
+    citationCount 71.0
+    totalCssPapers 1
+    yearFirst 2018.0
+    group 53
+  ]
+  node [
+    id 370
+    label "34893194"
+    name "Yannick Leo"
+    topField "Computer Science"
+    citationCount 19.5
+    totalCssPapers 4
+    yearFirst 2016.0
+    group 20
+  ]
+  node [
+    id 371
+    label "2143922"
+    name "Maximilian Isabel Schich"
+    topField "Art"
+    citationCount 170.0
+    totalCssPapers 2
+    yearFirst 2014.0
+    group 17
+  ]
+  node [
+    id 372
+    label "1602255019"
+    name "Pranav Sankhe"
+    topField "Computer Science"
+    citationCount 0.0
+    totalCssPapers 2
+    yearFirst 2022.0
+    group 55
+  ]
+  node [
+    id 373
+    label "144463965"
+    name "A. P. Sheth"
+    topField "Computer Science"
+    citationCount 23.0
+    totalCssPapers 2
+    yearFirst 2009.0
+    group 41
+  ]
+  node [
+    id 374
+    label "50397373"
+    name "Ruijun Ma"
+    topField "Computer Science"
+    citationCount 107.0
+    totalCssPapers 1
+    yearFirst 2018.0
+    group 81
+  ]
+  node [
+    id 375
+    label "2108342531"
+    name "Huei-yen Winnie Chen"
+    topField "Psychology"
+    citationCount 0.0
+    totalCssPapers 2
+    yearFirst 2022.0
+    group 55
+  ]
+  node [
+    id 376
+    label "2172246900"
+    name "Marcelo Marques Ara&#250;jo"
+    topField "Computer Science"
+    citationCount 0.0
+    totalCssPapers 1
+    yearFirst 2017.0
+    group 57
+  ]
+  node [
+    id 377
+    label "117885595"
+    name "Guilherme Ferraz De Arruda"
+    topField "Computer Science"
+    citationCount 22.0
+    totalCssPapers 3
+    yearFirst 2018.0
+    group 5
+  ]
+  node [
+    id 378
+    label "2562587"
+    name "Stefano Gurciullo"
+    topField "Economics"
+    citationCount 91.0
+    totalCssPapers 1
+    yearFirst 2015.0
+    group 6
+  ]
+  node [
+    id 379
+    label "6541695"
+    name "Gerald Kerth"
+    topField "Biology"
+    citationCount 2.0
+    totalCssPapers 3
+    yearFirst 2019.0
+    group 6
+  ]
+  node [
+    id 380
+    label "2400779"
+    name "Erez Hatna"
+    topField "Economics"
+    citationCount 85.0
+    totalCssPapers 1
+    yearFirst 2013.0
+    group 7
+  ]
+  node [
+    id 381
+    label "5182072"
+    name "Ana Andrea Stoica"
+    topField "Computer Science"
+    citationCount 0.0
+    totalCssPapers 1
+    yearFirst 2022.0
+    group 60
+  ]
+  node [
+    id 382
+    label "2793618"
+    name "Daniel Schien"
+    topField "Computer Science"
+    citationCount 3.5
+    totalCssPapers 4
+    yearFirst 2013.0
+    group 7
+  ]
+  node [
+    id 383
+    label "51428797"
+    name "Mykola Makhortykh"
+    topField "Computer Science"
+    citationCount 4.0
+    totalCssPapers 11
+    yearFirst 2017.0
+    group 55
+  ]
+  node [
+    id 384
+    label "2098911"
+    name "Piotr Sapie&#380;y&#324;ski"
+    topField "Computer Science"
+    citationCount 62.0
+    totalCssPapers 2
+    yearFirst 2016.0
+    group 26
+  ]
+  node [
+    id 385
+    label "3074687"
+    name "Guilherme Ferraz De Arruda"
+    topField "Computer Science"
+    citationCount 18.0
+    totalCssPapers 1
+    yearFirst 2020.0
+    group 5
+  ]
+  node [
+    id 386
+    label "148115261"
+    name "Simone Piaggesi"
+    topField "Computer Science"
+    citationCount 1.0
+    totalCssPapers 2
+    yearFirst 2021.0
+    group 63
+  ]
+  node [
+    id 387
+    label "144027066"
+    name "Rudolf Hanel"
+    topField "Computer Science"
+    citationCount 1.0
+    totalCssPapers 1
+    yearFirst 2017.0
+    group 7
+  ]
+  node [
+    id 388
+    label "144433002"
+    name "Wagner Meira"
+    topField "Computer Science"
+    citationCount 16.0
+    totalCssPapers 1
+    yearFirst 2019.0
+    group 65
+  ]
+  node [
+    id 389
+    label "1743286"
+    name "D. R. Karger"
+    topField "Computer Science"
+    citationCount 118.0
+    totalCssPapers 1
+    yearFirst 2012.0
+    group 89
+  ]
+  node [
+    id 390
+    label "144447784"
+    name "Hugo Gomes Da Costa Barbosa"
+    topField "Computer Science"
+    citationCount 0.0
+    totalCssPapers 1
+    yearFirst 2022.0
+    group 63
+  ]
+  node [
+    id 391
+    label "143921708"
+    name "L Behera"
+    topField "Computer Science"
+    citationCount 10.0
+    totalCssPapers 1
+    yearFirst 2012.0
+    group 6
+  ]
+  node [
+    id 392
+    label "2350103"
+    name "Adrian Baule"
+    topField "Physics"
+    citationCount 27.0
+    totalCssPapers 1
+    yearFirst 2015.0
+    group 5
+  ]
+  node [
+    id 393
+    label "2101349323"
+    name "Sebastian Stommel"
+    topField "Economics"
+    citationCount 1.0
+    totalCssPapers 1
+    yearFirst 2016.0
+    group 6
+  ]
+  node [
+    id 394
+    label "2005467141"
+    name "Muhammad Nawzad Ali"
+    topField "Business"
+    citationCount 6.0
+    totalCssPapers 3
+    yearFirst 2017.0
+    group 43
+  ]
+  node [
+    id 395
+    label "1764308"
+    name "Steve Borgatti"
+    topField "Computer Science"
+    citationCount 15.0
+    totalCssPapers 1
+    yearFirst 2018.0
+    group 51
+  ]
+  node [
+    id 396
+    label "46307619"
+    name "Le Chen"
+    topField "Computer Science"
+    citationCount 107.0
+    totalCssPapers 1
+    yearFirst 2018.0
+    group 81
+  ]
+  node [
+    id 397
+    label "102536922"
+    name "Sam Davidson"
+    topField "Computer Science"
+    citationCount 3.0
+    totalCssPapers 1
+    yearFirst 2021.0
+    group 64
+  ]
+  node [
+    id 398
+    label "1729586298"
+    name "Robert Zev Mahari"
+    topField "Economics"
+    citationCount 0.0
+    totalCssPapers 2
+    yearFirst 2022.0
+    group 17
+  ]
+  node [
+    id 399
+    label "145483397"
+    name "Mahdi Jalili"
+    topField "Computer Science"
+    citationCount 3.0
+    totalCssPapers 1
+    yearFirst 2015.0
+    group 39
+  ]
+  node [
+    id 400
+    label "2748710"
+    name "Hamed Ghasemieh"
+    topField "Computer Science"
+    citationCount 1.0
+    totalCssPapers 1
+    yearFirst 2013.0
+    group 18
+  ]
+  node [
+    id 401
+    label "1416945634"
+    name "Briony Swire&#8208;thompson"
+    topField "Psychology"
+    citationCount 789.0
+    totalCssPapers 1
+    yearFirst 2019.0
+    group 55
+  ]
+  node [
+    id 402
+    label "3068033"
+    name "Vahan Nanumyan"
+    topField "Computer Science"
+    citationCount 0.0
+    totalCssPapers 3
+    yearFirst 2015.0
+    group 6
+  ]
+  node [
+    id 403
+    label "1999065"
+    name "Hang &#8208; Hyun Jo"
+    topField "Computer Science"
+    citationCount 63.0
+    totalCssPapers 2
+    yearFirst 2019.0
+    group 81
+  ]
+  node [
+    id 404
+    label "2783939"
+    name "Drew Fudenberg"
+    topField "Economics"
+    citationCount 1.0
+    totalCssPapers 2
+    yearFirst 2013.0
+    group 70
+  ]
+  node [
+    id 405
+    label "1976593"
+    name "Miriam Metzger"
+    topField "Computer Science"
+    citationCount 4.0
+    totalCssPapers 2
+    yearFirst 2012.0
+    group 81
+  ]
+  node [
+    id 406
+    label "1993659"
+    name "Jan Jakub Lorenz"
+    topField "Economics"
+    citationCount 12.0
+    totalCssPapers 1
+    yearFirst 2012.0
+    group 6
+  ]
+  node [
+    id 407
+    label "50325098"
+    name "Kun Zhao"
+    topField "Materials Science"
+    citationCount 68.0
+    totalCssPapers 1
+    yearFirst 2012.0
+    group 5
+  ]
+  node [
+    id 408
+    label "2059382056"
+    name "Andrea Sipka"
+    topField "Sociology"
+    citationCount 12.0
+    totalCssPapers 2
+    yearFirst 2021.0
+    group 55
+  ]
+  node [
+    id 409
+    label "2016688"
+    name "Riivo Kikas"
+    topField "Computer Science"
+    citationCount 73.0
+    totalCssPapers 1
+    yearFirst 2016.0
+    group 20
+  ]
+  node [
+    id 410
+    label "1744555"
+    name "Yasuko Matsubara"
+    topField "Computer Science"
+    citationCount 1.0
+    totalCssPapers 5
+    yearFirst 2015.0
+    group 86
+  ]
+  node [
+    id 411
+    label "2158233729"
+    name "Antonio Af Loureiro"
+    topField "Physics"
+    citationCount 0.0
+    totalCssPapers 1
+    yearFirst 2017.0
+    group 36
+  ]
+  node [
+    id 412
+    label "1734430"
+    name "Luis Fernando Z&#225;rate"
+    topField "Computer Science"
+    citationCount 0.0
+    totalCssPapers 2
+    yearFirst 2022.0
+    group 15
+  ]
+  node [
+    id 413
+    label "2164871"
+    name "Gianluca Jeroen Carnabuci"
+    topField "Business"
+    citationCount 6.0
+    totalCssPapers 1
+    yearFirst 2012.0
+    group 51
+  ]
+  node [
+    id 414
+    label "32071555"
+    name "Ashton Anderson"
+    topField "Computer Science"
+    citationCount 21.5
+    totalCssPapers 2
+    yearFirst 2014.0
+    group 13
+  ]
+  node [
+    id 415
+    label "1898789"
+    name "Elsa Arcaute"
+    topField "Economics"
+    citationCount 85.0
+    totalCssPapers 1
+    yearFirst 2013.0
+    group 7
+  ]
+  node [
+    id 416
+    label "2609204"
+    name "Keiko V. Ono Fonseca"
+    topField "Computer Science"
+    citationCount 4.0
+    totalCssPapers 1
+    yearFirst 2016.0
+    group 59
+  ]
+  node [
+    id 417
+    label "12512587"
+    name "Christian Zingg"
+    topField "Computer Science"
+    citationCount 1.0
+    totalCssPapers 1
+    yearFirst 2015.0
+    group 80
+  ]
+  node [
+    id 418
+    label "2053759155"
+    name "Anna Olson May"
+    topField "Economics"
+    citationCount 27.5
+    totalCssPapers 2
+    yearFirst 2018.0
+    group 55
+  ]
+  node [
+    id 419
+    label "2056180165"
+    name "Mirella Moura Moro"
+    topField "Computer Science"
+    citationCount 0.0
+    totalCssPapers 1
+    yearFirst 2017.0
+    group 47
+  ]
+  node [
+    id 420
+    label "145033454"
+    name "S&#225;ndor Juh&#225;sz"
+    topField "Computer Science"
+    citationCount 6.0
+    totalCssPapers 1
+    yearFirst 2021.0
+    group 20
+  ]
+  node [
+    id 421
+    label "2222586"
+    name "Rene Pfitzner"
+    topField "Computer Science"
+    citationCount 5.0
+    totalCssPapers 4
+    yearFirst 2012.0
+    group 6
+  ]
+  node [
+    id 422
+    label "51335581"
+    name "Vinicius F. S. Mota"
+    topField "Computer Science"
+    citationCount 0.0
+    totalCssPapers 1
+    yearFirst 2022.0
+    group 54
+  ]
+  node [
+    id 423
+    label "1701876"
+    name "Pattie Maes"
+    topField "Computer Science"
+    citationCount 1.0
+    totalCssPapers 2
+    yearFirst 2016.0
+    group 78
+  ]
+  node [
+    id 424
+    label "2110096372"
+    name "Aanjaneya Kumar"
+    topField "Computer Science"
+    citationCount 7.0
+    totalCssPapers 1
+    yearFirst 2021.0
+    group 5
+  ]
+  node [
+    id 425
+    label "1458580614"
+    name "Marco D&#8217;errico"
+    topField "Economics"
+    citationCount 91.0
+    totalCssPapers 1
+    yearFirst 2015.0
+    group 6
+  ]
+  node [
+    id 426
+    label "1829862"
+    name "Keith W Ross"
+    topField "Computer Science"
+    citationCount 13.0
+    totalCssPapers 1
+    yearFirst 2012.0
+    group 48
+  ]
+  node [
+    id 427
+    label "1719389"
+    name "Rosalind Wright Picard"
+    topField "Computer Science"
+    citationCount 2.0
+    totalCssPapers 1
+    yearFirst 2014.0
+    group 84
+  ]
+  node [
+    id 428
+    label "1764577"
+    name "Alberto H.f. Laender"
+    topField "Computer Science"
+    citationCount 8.5
+    totalCssPapers 4
+    yearFirst 2015.0
+    group 53
+  ]
+  node [
+    id 429
+    label "38906978"
+    name "Jevin West"
+    topField "Computer Science"
+    citationCount 0.0
+    totalCssPapers 1
+    yearFirst 2018.0
+    group 90
+  ]
+  node [
+    id 430
+    label "51440256"
+    name "Kishore Vasan"
+    topField "Medicine"
+    citationCount 0.0
+    totalCssPapers 1
+    yearFirst 2018.0
+    group 90
+  ]
+  node [
+    id 431
+    label "2625318"
+    name "Muhammad Bilal Zafar"
+    topField "Computer Science"
+    citationCount 7.0
+    totalCssPapers 1
+    yearFirst 2020.0
+    group 92
+  ]
+  edge [
+    source 0
+    target 3
+    weight 1
+  ]
+  edge [
+    source 0
+    target 230
+    weight 8
+  ]
+  edge [
+    source 0
+    target 168
+    weight 1
+  ]
+  edge [
+    source 0
+    target 255
+    weight 1
+  ]
+  edge [
+    source 0
+    target 81
+    weight 1
+  ]
+  edge [
+    source 0
+    target 184
+    weight 1
+  ]
+  edge [
+    source 0
+    target 125
+    weight 6
+  ]
+  edge [
+    source 0
+    target 38
+    weight 1
+  ]
+  edge [
+    source 0
+    target 309
+    weight 7
+  ]
+  edge [
+    source 0
+    target 155
+    weight 1
+  ]
+  edge [
+    source 1
+    target 151
+    weight 1
+  ]
+  edge [
+    source 1
+    target 47
+    weight 1
+  ]
+  edge [
+    source 1
+    target 12
+    weight 3
+  ]
+  edge [
+    source 1
+    target 116
+    weight 2
+  ]
+  edge [
+    source 1
+    target 390
+    weight 1
+  ]
+  edge [
+    source 2
+    target 356
+    weight 1
+  ]
+  edge [
+    source 2
+    target 102
+    weight 1
+  ]
+  edge [
+    source 2
+    target 202
+    weight 2
+  ]
+  edge [
+    source 2
+    target 101
+    weight 2
+  ]
+  edge [
+    source 3
+    target 4
+    weight 1
+  ]
+  edge [
+    source 3
+    target 251
+    weight 1
+  ]
+  edge [
+    source 3
+    target 333
+    weight 1
+  ]
+  edge [
+    source 3
+    target 230
+    weight 1
+  ]
+  edge [
+    source 3
+    target 192
+    weight 1
+  ]
+  edge [
+    source 3
+    target 176
+    weight 1
+  ]
+  edge [
+    source 3
+    target 369
+    weight 1
+  ]
+  edge [
+    source 3
+    target 259
+    weight 1
+  ]
+  edge [
+    source 3
+    target 38
+    weight 1
+  ]
+  edge [
+    source 3
+    target 105
+    weight 1
+  ]
+  edge [
+    source 3
+    target 248
+    weight 1
+  ]
+  edge [
+    source 3
+    target 81
+    weight 1
+  ]
+  edge [
+    source 3
+    target 51
+    weight 1
+  ]
+  edge [
+    source 4
+    target 176
+    weight 1
+  ]
+  edge [
+    source 4
+    target 259
+    weight 1
+  ]
+  edge [
+    source 4
+    target 251
+    weight 1
+  ]
+  edge [
+    source 4
+    target 38
+    weight 1
+  ]
+  edge [
+    source 4
+    target 248
+    weight 1
+  ]
+  edge [
+    source 4
+    target 81
+    weight 1
+  ]
+  edge [
+    source 4
+    target 369
+    weight 1
+  ]
+  edge [
+    source 5
+    target 34
+    weight 1
+  ]
+  edge [
+    source 5
+    target 84
+    weight 1
+  ]
+  edge [
+    source 5
+    target 6
+    weight 2
+  ]
+  edge [
+    source 5
+    target 41
+    weight 1
+  ]
+  edge [
+    source 5
+    target 77
+    weight 1
+  ]
+  edge [
+    source 5
+    target 74
+    weight 3
+  ]
+  edge [
+    source 6
+    target 74
+    weight 6
+  ]
+  edge [
+    source 6
+    target 77
+    weight 1
+  ]
+  edge [
+    source 6
+    target 34
+    weight 2
+  ]
+  edge [
+    source 6
+    target 171
+    weight 1
+  ]
+  edge [
+    source 6
+    target 253
+    weight 1
+  ]
+  edge [
+    source 6
+    target 231
+    weight 1
+  ]
+  edge [
+    source 6
+    target 84
+    weight 2
+  ]
+  edge [
+    source 6
+    target 116
+    weight 1
+  ]
+  edge [
+    source 6
+    target 44
+    weight 1
+  ]
+  edge [
+    source 6
+    target 41
+    weight 1
+  ]
+  edge [
+    source 7
+    target 296
+    weight 2
+  ]
+  edge [
+    source 7
+    target 100
+    weight 1
+  ]
+  edge [
+    source 7
+    target 213
+    weight 2
+  ]
+  edge [
+    source 7
+    target 8
+    weight 1
+  ]
+  edge [
+    source 7
+    target 76
+    weight 2
+  ]
+  edge [
+    source 7
+    target 371
+    weight 1
+  ]
+  edge [
+    source 8
+    target 128
+    weight 1
+  ]
+  edge [
+    source 8
+    target 100
+    weight 1
+  ]
+  edge [
+    source 8
+    target 332
+    weight 1
+  ]
+  edge [
+    source 8
+    target 371
+    weight 1
+  ]
+  edge [
+    source 8
+    target 44
+    weight 2
+  ]
+  edge [
+    source 9
+    target 185
+    weight 1
+  ]
+  edge [
+    source 9
+    target 258
+    weight 1
+  ]
+  edge [
+    source 9
+    target 44
+    weight 1
+  ]
+  edge [
+    source 9
+    target 255
+    weight 1
+  ]
+  edge [
+    source 9
+    target 323
+    weight 2
+  ]
+  edge [
+    source 10
+    target 39
+    weight 1
+  ]
+  edge [
+    source 10
+    target 76
+    weight 4
+  ]
+  edge [
+    source 10
+    target 12
+    weight 1
+  ]
+  edge [
+    source 11
+    target 63
+    weight 1
+  ]
+  edge [
+    source 11
+    target 147
+    weight 1
+  ]
+  edge [
+    source 11
+    target 156
+    weight 2
+  ]
+  edge [
+    source 11
+    target 99
+    weight 1
+  ]
+  edge [
+    source 11
+    target 119
+    weight 3
+  ]
+  edge [
+    source 11
+    target 280
+    weight 1
+  ]
+  edge [
+    source 11
+    target 411
+    weight 1
+  ]
+  edge [
+    source 11
+    target 26
+    weight 1
+  ]
+  edge [
+    source 11
+    target 164
+    weight 1
+  ]
+  edge [
+    source 12
+    target 137
+    weight 2
+  ]
+  edge [
+    source 12
+    target 76
+    weight 1
+  ]
+  edge [
+    source 12
+    target 385
+    weight 1
+  ]
+  edge [
+    source 12
+    target 151
+    weight 9
+  ]
+  edge [
+    source 12
+    target 47
+    weight 3
+  ]
+  edge [
+    source 12
+    target 312
+    weight 2
+  ]
+  edge [
+    source 12
+    target 107
+    weight 1
+  ]
+  edge [
+    source 12
+    target 377
+    weight 1
+  ]
+  edge [
+    source 12
+    target 262
+    weight 2
+  ]
+  edge [
+    source 12
+    target 188
+    weight 1
+  ]
+  edge [
+    source 13
+    target 14
+    weight 1
+  ]
+  edge [
+    source 13
+    target 47
+    weight 1
+  ]
+  edge [
+    source 13
+    target 174
+    weight 1
+  ]
+  edge [
+    source 13
+    target 30
+    weight 1
+  ]
+  edge [
+    source 13
+    target 23
+    weight 1
+  ]
+  edge [
+    source 13
+    target 319
+    weight 1
+  ]
+  edge [
+    source 14
+    target 174
+    weight 1
+  ]
+  edge [
+    source 14
+    target 319
+    weight 1
+  ]
+  edge [
+    source 14
+    target 23
+    weight 1
+  ]
+  edge [
+    source 15
+    target 16
+    weight 1
+  ]
+  edge [
+    source 15
+    target 307
+    weight 1
+  ]
+  edge [
+    source 15
+    target 300
+    weight 1
+  ]
+  edge [
+    source 15
+    target 308
+    weight 1
+  ]
+  edge [
+    source 15
+    target 57
+    weight 1
+  ]
+  edge [
+    source 17
+    target 18
+    weight 1
+  ]
+  edge [
+    source 17
+    target 110
+    weight 1
+  ]
+  edge [
+    source 17
+    target 284
+    weight 1
+  ]
+  edge [
+    source 17
+    target 53
+    weight 1
+  ]
+  edge [
+    source 18
+    target 143
+    weight 1
+  ]
+  edge [
+    source 18
+    target 284
+    weight 1
+  ]
+  edge [
+    source 18
+    target 258
+    weight 1
+  ]
+  edge [
+    source 18
+    target 53
+    weight 1
+  ]
+  edge [
+    source 18
+    target 110
+    weight 1
+  ]
+  edge [
+    source 18
+    target 359
+    weight 1
+  ]
+  edge [
+    source 19
+    target 20
+    weight 3
+  ]
+  edge [
+    source 19
+    target 294
+    weight 1
+  ]
+  edge [
+    source 19
+    target 283
+    weight 1
+  ]
+  edge [
+    source 19
+    target 96
+    weight 2
+  ]
+  edge [
+    source 19
+    target 288
+    weight 2
+  ]
+  edge [
+    source 19
+    target 81
+    weight 3
+  ]
+  edge [
+    source 20
+    target 96
+    weight 2
+  ]
+  edge [
+    source 20
+    target 55
+    weight 2
+  ]
+  edge [
+    source 20
+    target 273
+    weight 1
+  ]
+  edge [
+    source 20
+    target 288
+    weight 2
+  ]
+  edge [
+    source 20
+    target 196
+    weight 1
+  ]
+  edge [
+    source 20
+    target 362
+    weight 1
+  ]
+  edge [
+    source 20
+    target 81
+    weight 1
+  ]
+  edge [
+    source 20
+    target 56
+    weight 1
+  ]
+  edge [
+    source 20
+    target 238
+    weight 1
+  ]
+  edge [
+    source 20
+    target 268
+    weight 2
+  ]
+  edge [
+    source 20
+    target 394
+    weight 1
+  ]
+  edge [
+    source 20
+    target 178
+    weight 2
+  ]
+  edge [
+    source 20
+    target 294
+    weight 1
+  ]
+  edge [
+    source 20
+    target 130
+    weight 2
+  ]
+  edge [
+    source 20
+    target 283
+    weight 1
+  ]
+  edge [
+    source 21
+    target 24
+    weight 4
+  ]
+  edge [
+    source 21
+    target 80
+    weight 4
+  ]
+  edge [
+    source 22
+    target 54
+    weight 1
+  ]
+  edge [
+    source 22
+    target 143
+    weight 1
+  ]
+  edge [
+    source 22
+    target 144
+    weight 1
+  ]
+  edge [
+    source 22
+    target 229
+    weight 1
+  ]
+  edge [
+    source 22
+    target 95
+    weight 1
+  ]
+  edge [
+    source 22
+    target 186
+    weight 1
+  ]
+  edge [
+    source 22
+    target 350
+    weight 1
+  ]
+  edge [
+    source 22
+    target 93
+    weight 1
+  ]
+  edge [
+    source 22
+    target 118
+    weight 9
+  ]
+  edge [
+    source 22
+    target 228
+    weight 1
+  ]
+  edge [
+    source 22
+    target 25
+    weight 4
+  ]
+  edge [
+    source 22
+    target 403
+    weight 1
+  ]
+  edge [
+    source 22
+    target 297
+    weight 1
+  ]
+  edge [
+    source 22
+    target 27
+    weight 1
+  ]
+  edge [
+    source 22
+    target 346
+    weight 1
+  ]
+  edge [
+    source 22
+    target 209
+    weight 2
+  ]
+  edge [
+    source 23
+    target 24
+    weight 1
+  ]
+  edge [
+    source 23
+    target 174
+    weight 3
+  ]
+  edge [
+    source 23
+    target 135
+    weight 1
+  ]
+  edge [
+    source 23
+    target 80
+    weight 1
+  ]
+  edge [
+    source 23
+    target 79
+    weight 1
+  ]
+  edge [
+    source 23
+    target 89
+    weight 1
+  ]
+  edge [
+    source 23
+    target 60
+    weight 1
+  ]
+  edge [
+    source 23
+    target 319
+    weight 1
+  ]
+  edge [
+    source 24
+    target 80
+    weight 7
+  ]
+  edge [
+    source 24
+    target 174
+    weight 1
+  ]
+  edge [
+    source 24
+    target 79
+    weight 1
+  ]
+  edge [
+    source 25
+    target 95
+    weight 2
+  ]
+  edge [
+    source 25
+    target 346
+    weight 1
+  ]
+  edge [
+    source 25
+    target 350
+    weight 1
+  ]
+  edge [
+    source 26
+    target 99
+    weight 1
+  ]
+  edge [
+    source 26
+    target 147
+    weight 1
+  ]
+  edge [
+    source 26
+    target 119
+    weight 1
+  ]
+  edge [
+    source 27
+    target 120
+    weight 1
+  ]
+  edge [
+    source 27
+    target 81
+    weight 1
+  ]
+  edge [
+    source 27
+    target 216
+    weight 1
+  ]
+  edge [
+    source 28
+    target 210
+    weight 1
+  ]
+  edge [
+    source 29
+    target 253
+    weight 1
+  ]
+  edge [
+    source 29
+    target 44
+    weight 1
+  ]
+  edge [
+    source 29
+    target 53
+    weight 2
+  ]
+  edge [
+    source 30
+    target 224
+    weight 1
+  ]
+  edge [
+    source 30
+    target 137
+    weight 1
+  ]
+  edge [
+    source 30
+    target 146
+    weight 1
+  ]
+  edge [
+    source 30
+    target 107
+    weight 1
+  ]
+  edge [
+    source 30
+    target 47
+    weight 1
+  ]
+  edge [
+    source 31
+    target 32
+    weight 1
+  ]
+  edge [
+    source 32
+    target 97
+    weight 1
+  ]
+  edge [
+    source 32
+    target 395
+    weight 1
+  ]
+  edge [
+    source 32
+    target 134
+    weight 1
+  ]
+  edge [
+    source 32
+    target 413
+    weight 1
+  ]
+  edge [
+    source 33
+    target 203
+    weight 4
+  ]
+  edge [
+    source 34
+    target 77
+    weight 3
+  ]
+  edge [
+    source 34
+    target 74
+    weight 3
+  ]
+  edge [
+    source 34
+    target 171
+    weight 1
+  ]
+  edge [
+    source 35
+    target 51
+    weight 1
+  ]
+  edge [
+    source 35
+    target 124
+    weight 7
+  ]
+  edge [
+    source 35
+    target 105
+    weight 1
+  ]
+  edge [
+    source 36
+    target 258
+    weight 1
+  ]
+  edge [
+    source 37
+    target 38
+    weight 1
+  ]
+  edge [
+    source 37
+    target 191
+    weight 1
+  ]
+  edge [
+    source 38
+    target 51
+    weight 1
+  ]
+  edge [
+    source 38
+    target 259
+    weight 1
+  ]
+  edge [
+    source 38
+    target 81
+    weight 1
+  ]
+  edge [
+    source 38
+    target 192
+    weight 1
+  ]
+  edge [
+    source 38
+    target 230
+    weight 1
+  ]
+  edge [
+    source 38
+    target 248
+    weight 3
+  ]
+  edge [
+    source 38
+    target 355
+    weight 1
+  ]
+  edge [
+    source 38
+    target 176
+    weight 1
+  ]
+  edge [
+    source 38
+    target 251
+    weight 1
+  ]
+  edge [
+    source 38
+    target 369
+    weight 1
+  ]
+  edge [
+    source 38
+    target 333
+    weight 1
+  ]
+  edge [
+    source 38
+    target 105
+    weight 1
+  ]
+  edge [
+    source 38
+    target 428
+    weight 2
+  ]
+  edge [
+    source 38
+    target 191
+    weight 1
+  ]
+  edge [
+    source 39
+    target 64
+    weight 4
+  ]
+  edge [
+    source 39
+    target 141
+    weight 2
+  ]
+  edge [
+    source 39
+    target 213
+    weight 1
+  ]
+  edge [
+    source 39
+    target 291
+    weight 1
+  ]
+  edge [
+    source 39
+    target 145
+    weight 1
+  ]
+  edge [
+    source 40
+    target 327
+    weight 1
+  ]
+  edge [
+    source 41
+    target 44
+    weight 2
+  ]
+  edge [
+    source 41
+    target 84
+    weight 1
+  ]
+  edge [
+    source 41
+    target 193
+    weight 2
+  ]
+  edge [
+    source 41
+    target 74
+    weight 1
+  ]
+  edge [
+    source 41
+    target 77
+    weight 1
+  ]
+  edge [
+    source 41
+    target 68
+    weight 2
+  ]
+  edge [
+    source 41
+    target 138
+    weight 1
+  ]
+  edge [
+    source 42
+    target 186
+    weight 1
+  ]
+  edge [
+    source 42
+    target 120
+    weight 1
+  ]
+  edge [
+    source 42
+    target 285
+    weight 1
+  ]
+  edge [
+    source 42
+    target 78
+    weight 1
+  ]
+  edge [
+    source 42
+    target 133
+    weight 1
+  ]
+  edge [
+    source 42
+    target 326
+    weight 1
+  ]
+  edge [
+    source 42
+    target 121
+    weight 1
+  ]
+  edge [
+    source 42
+    target 208
+    weight 1
+  ]
+  edge [
+    source 42
+    target 204
+    weight 1
+  ]
+  edge [
+    source 44
+    target 184
+    weight 1
+  ]
+  edge [
+    source 44
+    target 253
+    weight 3
+  ]
+  edge [
+    source 44
+    target 298
+    weight 1
+  ]
+  edge [
+    source 44
+    target 269
+    weight 1
+  ]
+  edge [
+    source 44
+    target 193
+    weight 1
+  ]
+  edge [
+    source 44
+    target 306
+    weight 1
+  ]
+  edge [
+    source 44
+    target 398
+    weight 1
+  ]
+  edge [
+    source 44
+    target 68
+    weight 6
+  ]
+  edge [
+    source 44
+    target 77
+    weight 1
+  ]
+  edge [
+    source 44
+    target 74
+    weight 1
+  ]
+  edge [
+    source 44
+    target 153
+    weight 1
+  ]
+  edge [
+    source 45
+    target 46
+    weight 2
+  ]
+  edge [
+    source 45
+    target 171
+    weight 2
+  ]
+  edge [
+    source 45
+    target 287
+    weight 2
+  ]
+  edge [
+    source 46
+    target 171
+    weight 2
+  ]
+  edge [
+    source 46
+    target 240
+    weight 1
+  ]
+  edge [
+    source 46
+    target 287
+    weight 2
+  ]
+  edge [
+    source 47
+    target 48
+    weight 2
+  ]
+  edge [
+    source 47
+    target 76
+    weight 2
+  ]
+  edge [
+    source 47
+    target 182
+    weight 1
+  ]
+  edge [
+    source 47
+    target 299
+    weight 1
+  ]
+  edge [
+    source 47
+    target 277
+    weight 1
+  ]
+  edge [
+    source 47
+    target 107
+    weight 1
+  ]
+  edge [
+    source 47
+    target 317
+    weight 1
+  ]
+  edge [
+    source 47
+    target 377
+    weight 2
+  ]
+  edge [
+    source 47
+    target 392
+    weight 1
+  ]
+  edge [
+    source 47
+    target 137
+    weight 3
+  ]
+  edge [
+    source 47
+    target 212
+    weight 1
+  ]
+  edge [
+    source 47
+    target 122
+    weight 1
+  ]
+  edge [
+    source 47
+    target 262
+    weight 3
+  ]
+  edge [
+    source 47
+    target 148
+    weight 4
+  ]
+  edge [
+    source 48
+    target 148
+    weight 2
+  ]
+  edge [
+    source 48
+    target 212
+    weight 1
+  ]
+  edge [
+    source 49
+    target 204
+    weight 1
+  ]
+  edge [
+    source 49
+    target 256
+    weight 1
+  ]
+  edge [
+    source 50
+    target 81
+    weight 2
+  ]
+  edge [
+    source 51
+    target 105
+    weight 5
+  ]
+  edge [
+    source 51
+    target 125
+    weight 2
+  ]
+  edge [
+    source 51
+    target 192
+    weight 1
+  ]
+  edge [
+    source 51
+    target 124
+    weight 1
+  ]
+  edge [
+    source 51
+    target 72
+    weight 1
+  ]
+  edge [
+    source 52
+    target 175
+    weight 1
+  ]
+  edge [
+    source 52
+    target 108
+    weight 1
+  ]
+  edge [
+    source 52
+    target 280
+    weight 1
+  ]
+  edge [
+    source 53
+    target 110
+    weight 1
+  ]
+  edge [
+    source 53
+    target 284
+    weight 6
+  ]
+  edge [
+    source 53
+    target 143
+    weight 5
+  ]
+  edge [
+    source 53
+    target 86
+    weight 1
+  ]
+  edge [
+    source 54
+    target 144
+    weight 1
+  ]
+  edge [
+    source 54
+    target 396
+    weight 1
+  ]
+  edge [
+    source 54
+    target 297
+    weight 1
+  ]
+  edge [
+    source 54
+    target 118
+    weight 1
+  ]
+  edge [
+    source 54
+    target 405
+    weight 1
+  ]
+  edge [
+    source 54
+    target 374
+    weight 1
+  ]
+  edge [
+    source 54
+    target 209
+    weight 1
+  ]
+  edge [
+    source 55
+    target 56
+    weight 1
+  ]
+  edge [
+    source 55
+    target 178
+    weight 2
+  ]
+  edge [
+    source 55
+    target 196
+    weight 1
+  ]
+  edge [
+    source 55
+    target 273
+    weight 1
+  ]
+  edge [
+    source 55
+    target 268
+    weight 2
+  ]
+  edge [
+    source 55
+    target 362
+    weight 1
+  ]
+  edge [
+    source 56
+    target 178
+    weight 1
+  ]
+  edge [
+    source 56
+    target 268
+    weight 1
+  ]
+  edge [
+    source 56
+    target 273
+    weight 1
+  ]
+  edge [
+    source 57
+    target 300
+    weight 1
+  ]
+  edge [
+    source 57
+    target 214
+    weight 1
+  ]
+  edge [
+    source 57
+    target 307
+    weight 1
+  ]
+  edge [
+    source 57
+    target 308
+    weight 1
+  ]
+  edge [
+    source 58
+    target 290
+    weight 1
+  ]
+  edge [
+    source 59
+    target 60
+    weight 1
+  ]
+  edge [
+    source 60
+    target 131
+    weight 1
+  ]
+  edge [
+    source 60
+    target 159
+    weight 1
+  ]
+  edge [
+    source 60
+    target 166
+    weight 3
+  ]
+  edge [
+    source 60
+    target 198
+    weight 2
+  ]
+  edge [
+    source 60
+    target 209
+    weight 6
+  ]
+  edge [
+    source 60
+    target 241
+    weight 2
+  ]
+  edge [
+    source 60
+    target 247
+    weight 2
+  ]
+  edge [
+    source 60
+    target 90
+    weight 4
+  ]
+  edge [
+    source 60
+    target 286
+    weight 2
+  ]
+  edge [
+    source 60
+    target 174
+    weight 1
+  ]
+  edge [
+    source 60
+    target 145
+    weight 6
+  ]
+  edge [
+    source 60
+    target 330
+    weight 1
+  ]
+  edge [
+    source 60
+    target 353
+    weight 2
+  ]
+  edge [
+    source 60
+    target 354
+    weight 1
+  ]
+  edge [
+    source 60
+    target 360
+    weight 1
+  ]
+  edge [
+    source 60
+    target 344
+    weight 2
+  ]
+  edge [
+    source 60
+    target 207
+    weight 1
+  ]
+  edge [
+    source 60
+    target 199
+    weight 1
+  ]
+  edge [
+    source 60
+    target 368
+    weight 1
+  ]
+  edge [
+    source 60
+    target 379
+    weight 2
+  ]
+  edge [
+    source 60
+    target 314
+    weight 5
+  ]
+  edge [
+    source 60
+    target 391
+    weight 1
+  ]
+  edge [
+    source 60
+    target 310
+    weight 2
+  ]
+  edge [
+    source 60
+    target 402
+    weight 3
+  ]
+  edge [
+    source 60
+    target 406
+    weight 1
+  ]
+  edge [
+    source 60
+    target 393
+    weight 1
+  ]
+  edge [
+    source 60
+    target 313
+    weight 1
+  ]
+  edge [
+    source 60
+    target 91
+    weight 3
+  ]
+  edge [
+    source 60
+    target 200
+    weight 2
+  ]
+  edge [
+    source 60
+    target 421
+    weight 2
+  ]
+  edge [
+    source 60
+    target 206
+    weight 4
+  ]
+  edge [
+    source 60
+    target 306
+    weight 2
+  ]
+  edge [
+    source 60
+    target 298
+    weight 1
+  ]
+  edge [
+    source 60
+    target 151
+    weight 1
+  ]
+  edge [
+    source 60
+    target 135
+    weight 6
+  ]
+  edge [
+    source 60
+    target 114
+    weight 2
+  ]
+  edge [
+    source 60
+    target 89
+    weight 10
+  ]
+  edge [
+    source 60
+    target 113
+    weight 2
+  ]
+  edge [
+    source 61
+    target 62
+    weight 1
+  ]
+  edge [
+    source 61
+    target 168
+    weight 2
+  ]
+  edge [
+    source 61
+    target 386
+    weight 1
+  ]
+  edge [
+    source 61
+    target 122
+    weight 1
+  ]
+  edge [
+    source 61
+    target 174
+    weight 1
+  ]
+  edge [
+    source 61
+    target 107
+    weight 1
+  ]
+  edge [
+    source 61
+    target 125
+    weight 2
+  ]
+  edge [
+    source 61
+    target 167
+    weight 1
+  ]
+  edge [
+    source 62
+    target 352
+    weight 1
+  ]
+  edge [
+    source 62
+    target 125
+    weight 2
+  ]
+  edge [
+    source 63
+    target 99
+    weight 1
+  ]
+  edge [
+    source 63
+    target 411
+    weight 1
+  ]
+  edge [
+    source 64
+    target 66
+    weight 1
+  ]
+  edge [
+    source 64
+    target 193
+    weight 1
+  ]
+  edge [
+    source 64
+    target 141
+    weight 3
+  ]
+  edge [
+    source 66
+    target 193
+    weight 1
+  ]
+  edge [
+    source 68
+    target 269
+    weight 1
+  ]
+  edge [
+    source 68
+    target 174
+    weight 1
+  ]
+  edge [
+    source 68
+    target 184
+    weight 1
+  ]
+  edge [
+    source 68
+    target 193
+    weight 2
+  ]
+  edge [
+    source 68
+    target 137
+    weight 1
+  ]
+  edge [
+    source 68
+    target 180
+    weight 1
+  ]
+  edge [
+    source 69
+    target 86
+    weight 11
+  ]
+  edge [
+    source 69
+    target 71
+    weight 10
+  ]
+  edge [
+    source 71
+    target 86
+    weight 10
+  ]
+  edge [
+    source 72
+    target 223
+    weight 1
+  ]
+  edge [
+    source 72
+    target 260
+    weight 3
+  ]
+  edge [
+    source 72
+    target 269
+    weight 1
+  ]
+  edge [
+    source 72
+    target 231
+    weight 2
+  ]
+  edge [
+    source 72
+    target 332
+    weight 2
+  ]
+  edge [
+    source 72
+    target 201
+    weight 1
+  ]
+  edge [
+    source 72
+    target 81
+    weight 2
+  ]
+  edge [
+    source 72
+    target 105
+    weight 1
+  ]
+  edge [
+    source 72
+    target 234
+    weight 3
+  ]
+  edge [
+    source 73
+    target 100
+    weight 1
+  ]
+  edge [
+    source 74
+    target 77
+    weight 8
+  ]
+  edge [
+    source 74
+    target 253
+    weight 3
+  ]
+  edge [
+    source 74
+    target 231
+    weight 1
+  ]
+  edge [
+    source 74
+    target 84
+    weight 1
+  ]
+  edge [
+    source 74
+    target 171
+    weight 2
+  ]
+  edge [
+    source 74
+    target 332
+    weight 1
+  ]
+  edge [
+    source 74
+    target 254
+    weight 1
+  ]
+  edge [
+    source 74
+    target 138
+    weight 6
+  ]
+  edge [
+    source 74
+    target 348
+    weight 1
+  ]
+  edge [
+    source 76
+    target 264
+    weight 1
+  ]
+  edge [
+    source 76
+    target 262
+    weight 2
+  ]
+  edge [
+    source 76
+    target 92
+    weight 4
+  ]
+  edge [
+    source 76
+    target 224
+    weight 1
+  ]
+  edge [
+    source 76
+    target 377
+    weight 2
+  ]
+  edge [
+    source 76
+    target 142
+    weight 1
+  ]
+  edge [
+    source 76
+    target 137
+    weight 2
+  ]
+  edge [
+    source 76
+    target 424
+    weight 1
+  ]
+  edge [
+    source 77
+    target 231
+    weight 1
+  ]
+  edge [
+    source 77
+    target 332
+    weight 1
+  ]
+  edge [
+    source 77
+    target 171
+    weight 2
+  ]
+  edge [
+    source 77
+    target 253
+    weight 2
+  ]
+  edge [
+    source 77
+    target 254
+    weight 1
+  ]
+  edge [
+    source 77
+    target 138
+    weight 2
+  ]
+  edge [
+    source 78
+    target 121
+    weight 1
+  ]
+  edge [
+    source 78
+    target 133
+    weight 1
+  ]
+  edge [
+    source 78
+    target 208
+    weight 1
+  ]
+  edge [
+    source 78
+    target 186
+    weight 1
+  ]
+  edge [
+    source 78
+    target 326
+    weight 1
+  ]
+  edge [
+    source 78
+    target 285
+    weight 1
+  ]
+  edge [
+    source 78
+    target 204
+    weight 1
+  ]
+  edge [
+    source 78
+    target 120
+    weight 1
+  ]
+  edge [
+    source 79
+    target 80
+    weight 1
+  ]
+  edge [
+    source 79
+    target 174
+    weight 1
+  ]
+  edge [
+    source 80
+    target 118
+    weight 1
+  ]
+  edge [
+    source 80
+    target 174
+    weight 1
+  ]
+  edge [
+    source 81
+    target 216
+    weight 1
+  ]
+  edge [
+    source 81
+    target 120
+    weight 1
+  ]
+  edge [
+    source 81
+    target 288
+    weight 2
+  ]
+  edge [
+    source 81
+    target 105
+    weight 1
+  ]
+  edge [
+    source 81
+    target 259
+    weight 1
+  ]
+  edge [
+    source 81
+    target 283
+    weight 1
+  ]
+  edge [
+    source 81
+    target 230
+    weight 1
+  ]
+  edge [
+    source 81
+    target 176
+    weight 1
+  ]
+  edge [
+    source 81
+    target 96
+    weight 2
+  ]
+  edge [
+    source 81
+    target 369
+    weight 1
+  ]
+  edge [
+    source 81
+    target 130
+    weight 1
+  ]
+  edge [
+    source 81
+    target 297
+    weight 1
+  ]
+  edge [
+    source 81
+    target 294
+    weight 1
+  ]
+  edge [
+    source 81
+    target 248
+    weight 1
+  ]
+  edge [
+    source 81
+    target 394
+    weight 1
+  ]
+  edge [
+    source 81
+    target 251
+    weight 1
+  ]
+  edge [
+    source 81
+    target 238
+    weight 2
+  ]
+  edge [
+    source 82
+    target 211
+    weight 1
+  ]
+  edge [
+    source 84
+    target 290
+    weight 1
+  ]
+  edge [
+    source 85
+    target 384
+    weight 2
+  ]
+  edge [
+    source 85
+    target 87
+    weight 2
+  ]
+  edge [
+    source 86
+    target 302
+    weight 1
+  ]
+  edge [
+    source 86
+    target 269
+    weight 1
+  ]
+  edge [
+    source 86
+    target 257
+    weight 1
+  ]
+  edge [
+    source 86
+    target 401
+    weight 1
+  ]
+  edge [
+    source 86
+    target 136
+    weight 3
+  ]
+  edge [
+    source 87
+    target 384
+    weight 1
+  ]
+  edge [
+    source 88
+    target 151
+    weight 1
+  ]
+  edge [
+    source 89
+    target 90
+    weight 3
+  ]
+  edge [
+    source 89
+    target 135
+    weight 1
+  ]
+  edge [
+    source 89
+    target 91
+    weight 1
+  ]
+  edge [
+    source 89
+    target 145
+    weight 2
+  ]
+  edge [
+    source 89
+    target 200
+    weight 3
+  ]
+  edge [
+    source 89
+    target 286
+    weight 1
+  ]
+  edge [
+    source 89
+    target 174
+    weight 1
+  ]
+  edge [
+    source 89
+    target 314
+    weight 2
+  ]
+  edge [
+    source 89
+    target 421
+    weight 2
+  ]
+  edge [
+    source 89
+    target 353
+    weight 2
+  ]
+  edge [
+    source 89
+    target 241
+    weight 1
+  ]
+  edge [
+    source 89
+    target 199
+    weight 1
+  ]
+  edge [
+    source 89
+    target 151
+    weight 1
+  ]
+  edge [
+    source 89
+    target 209
+    weight 1
+  ]
+  edge [
+    source 90
+    target 379
+    weight 2
+  ]
+  edge [
+    source 90
+    target 209
+    weight 1
+  ]
+  edge [
+    source 90
+    target 314
+    weight 1
+  ]
+  edge [
+    source 90
+    target 200
+    weight 2
+  ]
+  edge [
+    source 90
+    target 421
+    weight 2
+  ]
+  edge [
+    source 91
+    target 239
+    weight 2
+  ]
+  edge [
+    source 91
+    target 241
+    weight 2
+  ]
+  edge [
+    source 91
+    target 378
+    weight 1
+  ]
+  edge [
+    source 91
+    target 181
+    weight 1
+  ]
+  edge [
+    source 91
+    target 247
+    weight 2
+  ]
+  edge [
+    source 91
+    target 425
+    weight 1
+  ]
+  edge [
+    source 94
+    target 188
+    weight 4
+  ]
+  edge [
+    source 96
+    target 288
+    weight 2
+  ]
+  edge [
+    source 97
+    target 134
+    weight 1
+  ]
+  edge [
+    source 97
+    target 413
+    weight 1
+  ]
+  edge [
+    source 98
+    target 99
+    weight 1
+  ]
+  edge [
+    source 98
+    target 104
+    weight 1
+  ]
+  edge [
+    source 98
+    target 261
+    weight 1
+  ]
+  edge [
+    source 99
+    target 104
+    weight 1
+  ]
+  edge [
+    source 99
+    target 119
+    weight 1
+  ]
+  edge [
+    source 99
+    target 156
+    weight 2
+  ]
+  edge [
+    source 99
+    target 147
+    weight 1
+  ]
+  edge [
+    source 99
+    target 411
+    weight 1
+  ]
+  edge [
+    source 99
+    target 261
+    weight 1
+  ]
+  edge [
+    source 100
+    target 189
+    weight 1
+  ]
+  edge [
+    source 100
+    target 269
+    weight 1
+  ]
+  edge [
+    source 100
+    target 158
+    weight 1
+  ]
+  edge [
+    source 100
+    target 122
+    weight 1
+  ]
+  edge [
+    source 100
+    target 317
+    weight 1
+  ]
+  edge [
+    source 100
+    target 281
+    weight 1
+  ]
+  edge [
+    source 100
+    target 371
+    weight 1
+  ]
+  edge [
+    source 101
+    target 102
+    weight 1
+  ]
+  edge [
+    source 101
+    target 202
+    weight 2
+  ]
+  edge [
+    source 101
+    target 356
+    weight 1
+  ]
+  edge [
+    source 102
+    target 356
+    weight 1
+  ]
+  edge [
+    source 102
+    target 202
+    weight 1
+  ]
+  edge [
+    source 103
+    target 194
+    weight 1
+  ]
+  edge [
+    source 104
+    target 261
+    weight 2
+  ]
+  edge [
+    source 105
+    target 124
+    weight 1
+  ]
+  edge [
+    source 105
+    target 192
+    weight 1
+  ]
+  edge [
+    source 107
+    target 122
+    weight 1
+  ]
+  edge [
+    source 107
+    target 277
+    weight 1
+  ]
+  edge [
+    source 107
+    target 377
+    weight 1
+  ]
+  edge [
+    source 107
+    target 168
+    weight 1
+  ]
+  edge [
+    source 107
+    target 146
+    weight 1
+  ]
+  edge [
+    source 107
+    target 317
+    weight 1
+  ]
+  edge [
+    source 108
+    target 175
+    weight 1
+  ]
+  edge [
+    source 108
+    target 280
+    weight 1
+  ]
+  edge [
+    source 110
+    target 220
+    weight 1
+  ]
+  edge [
+    source 110
+    target 284
+    weight 1
+  ]
+  edge [
+    source 112
+    target 180
+    weight 1
+  ]
+  edge [
+    source 112
+    target 127
+    weight 1
+  ]
+  edge [
+    source 113
+    target 114
+    weight 2
+  ]
+  edge [
+    source 113
+    target 310
+    weight 2
+  ]
+  edge [
+    source 113
+    target 298
+    weight 1
+  ]
+  edge [
+    source 113
+    target 306
+    weight 2
+  ]
+  edge [
+    source 114
+    target 306
+    weight 2
+  ]
+  edge [
+    source 114
+    target 298
+    weight 1
+  ]
+  edge [
+    source 114
+    target 310
+    weight 2
+  ]
+  edge [
+    source 116
+    target 317
+    weight 1
+  ]
+  edge [
+    source 116
+    target 390
+    weight 1
+  ]
+  edge [
+    source 116
+    target 122
+    weight 1
+  ]
+  edge [
+    source 117
+    target 118
+    weight 1
+  ]
+  edge [
+    source 118
+    target 228
+    weight 1
+  ]
+  edge [
+    source 118
+    target 303
+    weight 1
+  ]
+  edge [
+    source 118
+    target 229
+    weight 1
+  ]
+  edge [
+    source 118
+    target 209
+    weight 1
+  ]
+  edge [
+    source 118
+    target 403
+    weight 1
+  ]
+  edge [
+    source 118
+    target 143
+    weight 1
+  ]
+  edge [
+    source 118
+    target 297
+    weight 1
+  ]
+  edge [
+    source 118
+    target 144
+    weight 1
+  ]
+  edge [
+    source 119
+    target 156
+    weight 2
+  ]
+  edge [
+    source 119
+    target 147
+    weight 1
+  ]
+  edge [
+    source 120
+    target 121
+    weight 1
+  ]
+  edge [
+    source 120
+    target 133
+    weight 1
+  ]
+  edge [
+    source 120
+    target 208
+    weight 1
+  ]
+  edge [
+    source 120
+    target 216
+    weight 1
+  ]
+  edge [
+    source 120
+    target 186
+    weight 1
+  ]
+  edge [
+    source 120
+    target 326
+    weight 1
+  ]
+  edge [
+    source 120
+    target 285
+    weight 1
+  ]
+  edge [
+    source 120
+    target 204
+    weight 1
+  ]
+  edge [
+    source 121
+    target 285
+    weight 1
+  ]
+  edge [
+    source 121
+    target 186
+    weight 1
+  ]
+  edge [
+    source 121
+    target 326
+    weight 1
+  ]
+  edge [
+    source 121
+    target 133
+    weight 1
+  ]
+  edge [
+    source 121
+    target 208
+    weight 1
+  ]
+  edge [
+    source 121
+    target 204
+    weight 1
+  ]
+  edge [
+    source 122
+    target 235
+    weight 1
+  ]
+  edge [
+    source 122
+    target 266
+    weight 2
+  ]
+  edge [
+    source 122
+    target 317
+    weight 2
+  ]
+  edge [
+    source 122
+    target 277
+    weight 3
+  ]
+  edge [
+    source 122
+    target 168
+    weight 2
+  ]
+  edge [
+    source 123
+    target 325
+    weight 1
+  ]
+  edge [
+    source 125
+    target 255
+    weight 1
+  ]
+  edge [
+    source 125
+    target 168
+    weight 2
+  ]
+  edge [
+    source 125
+    target 309
+    weight 1
+  ]
+  edge [
+    source 125
+    target 167
+    weight 1
+  ]
+  edge [
+    source 125
+    target 352
+    weight 1
+  ]
+  edge [
+    source 125
+    target 386
+    weight 1
+  ]
+  edge [
+    source 125
+    target 174
+    weight 1
+  ]
+  edge [
+    source 125
+    target 184
+    weight 2
+  ]
+  edge [
+    source 126
+    target 139
+    weight 1
+  ]
+  edge [
+    source 126
+    target 227
+    weight 1
+  ]
+  edge [
+    source 126
+    target 226
+    weight 4
+  ]
+  edge [
+    source 126
+    target 334
+    weight 3
+  ]
+  edge [
+    source 127
+    target 277
+    weight 1
+  ]
+  edge [
+    source 127
+    target 242
+    weight 2
+  ]
+  edge [
+    source 129
+    target 130
+    weight 1
+  ]
+  edge [
+    source 130
+    target 238
+    weight 1
+  ]
+  edge [
+    source 130
+    target 394
+    weight 1
+  ]
+  edge [
+    source 130
+    target 304
+    weight 1
+  ]
+  edge [
+    source 131
+    target 314
+    weight 1
+  ]
+  edge [
+    source 131
+    target 379
+    weight 1
+  ]
+  edge [
+    source 133
+    target 208
+    weight 1
+  ]
+  edge [
+    source 133
+    target 186
+    weight 1
+  ]
+  edge [
+    source 133
+    target 326
+    weight 1
+  ]
+  edge [
+    source 133
+    target 285
+    weight 1
+  ]
+  edge [
+    source 133
+    target 204
+    weight 1
+  ]
+  edge [
+    source 134
+    target 413
+    weight 1
+  ]
+  edge [
+    source 135
+    target 207
+    weight 1
+  ]
+  edge [
+    source 135
+    target 145
+    weight 2
+  ]
+  edge [
+    source 135
+    target 344
+    weight 1
+  ]
+  edge [
+    source 135
+    target 174
+    weight 1
+  ]
+  edge [
+    source 135
+    target 206
+    weight 1
+  ]
+  edge [
+    source 135
+    target 247
+    weight 1
+  ]
+  edge [
+    source 135
+    target 209
+    weight 1
+  ]
+  edge [
+    source 136
+    target 292
+    weight 3
+  ]
+  edge [
+    source 136
+    target 187
+    weight 2
+  ]
+  edge [
+    source 136
+    target 144
+    weight 2
+  ]
+  edge [
+    source 136
+    target 345
+    weight 2
+  ]
+  edge [
+    source 136
+    target 372
+    weight 2
+  ]
+  edge [
+    source 136
+    target 375
+    weight 2
+  ]
+  edge [
+    source 136
+    target 401
+    weight 1
+  ]
+  edge [
+    source 137
+    target 174
+    weight 1
+  ]
+  edge [
+    source 137
+    target 328
+    weight 1
+  ]
+  edge [
+    source 137
+    target 148
+    weight 1
+  ]
+  edge [
+    source 137
+    target 182
+    weight 1
+  ]
+  edge [
+    source 137
+    target 180
+    weight 1
+  ]
+  edge [
+    source 137
+    target 392
+    weight 1
+  ]
+  edge [
+    source 137
+    target 224
+    weight 1
+  ]
+  edge [
+    source 137
+    target 377
+    weight 2
+  ]
+  edge [
+    source 137
+    target 262
+    weight 2
+  ]
+  edge [
+    source 138
+    target 231
+    weight 1
+  ]
+  edge [
+    source 139
+    target 334
+    weight 1
+  ]
+  edge [
+    source 139
+    target 226
+    weight 2
+  ]
+  edge [
+    source 139
+    target 227
+    weight 4
+  ]
+  edge [
+    source 143
+    target 359
+    weight 1
+  ]
+  edge [
+    source 143
+    target 258
+    weight 1
+  ]
+  edge [
+    source 143
+    target 284
+    weight 5
+  ]
+  edge [
+    source 143
+    target 228
+    weight 1
+  ]
+  edge [
+    source 143
+    target 229
+    weight 1
+  ]
+  edge [
+    source 144
+    target 187
+    weight 2
+  ]
+  edge [
+    source 144
+    target 267
+    weight 2
+  ]
+  edge [
+    source 144
+    target 297
+    weight 1
+  ]
+  edge [
+    source 144
+    target 338
+    weight 1
+  ]
+  edge [
+    source 144
+    target 374
+    weight 1
+  ]
+  edge [
+    source 144
+    target 292
+    weight 2
+  ]
+  edge [
+    source 144
+    target 408
+    weight 1
+  ]
+  edge [
+    source 144
+    target 345
+    weight 2
+  ]
+  edge [
+    source 144
+    target 418
+    weight 2
+  ]
+  edge [
+    source 144
+    target 372
+    weight 2
+  ]
+  edge [
+    source 144
+    target 272
+    weight 1
+  ]
+  edge [
+    source 144
+    target 271
+    weight 1
+  ]
+  edge [
+    source 144
+    target 396
+    weight 1
+  ]
+  edge [
+    source 144
+    target 209
+    weight 1
+  ]
+  edge [
+    source 144
+    target 375
+    weight 2
+  ]
+  edge [
+    source 145
+    target 206
+    weight 1
+  ]
+  edge [
+    source 145
+    target 353
+    weight 2
+  ]
+  edge [
+    source 145
+    target 291
+    weight 1
+  ]
+  edge [
+    source 145
+    target 402
+    weight 3
+  ]
+  edge [
+    source 145
+    target 207
+    weight 1
+  ]
+  edge [
+    source 145
+    target 247
+    weight 1
+  ]
+  edge [
+    source 148
+    target 212
+    weight 1
+  ]
+  edge [
+    source 148
+    target 392
+    weight 1
+  ]
+  edge [
+    source 148
+    target 182
+    weight 1
+  ]
+  edge [
+    source 151
+    target 312
+    weight 2
+  ]
+  edge [
+    source 154
+    target 155
+    weight 1
+  ]
+  edge [
+    source 154
+    target 358
+    weight 1
+  ]
+  edge [
+    source 155
+    target 358
+    weight 1
+  ]
+  edge [
+    source 157
+    target 158
+    weight 2
+  ]
+  edge [
+    source 157
+    target 174
+    weight 1
+  ]
+  edge [
+    source 157
+    target 252
+    weight 2
+  ]
+  edge [
+    source 157
+    target 409
+    weight 1
+  ]
+  edge [
+    source 158
+    target 174
+    weight 3
+  ]
+  edge [
+    source 158
+    target 252
+    weight 3
+  ]
+  edge [
+    source 158
+    target 409
+    weight 1
+  ]
+  edge [
+    source 158
+    target 357
+    weight 2
+  ]
+  edge [
+    source 159
+    target 406
+    weight 1
+  ]
+  edge [
+    source 160
+    target 174
+    weight 1
+  ]
+  edge [
+    source 160
+    target 263
+    weight 1
+  ]
+  edge [
+    source 160
+    target 339
+    weight 1
+  ]
+  edge [
+    source 160
+    target 253
+    weight 1
+  ]
+  edge [
+    source 162
+    target 163
+    weight 1
+  ]
+  edge [
+    source 162
+    target 274
+    weight 1
+  ]
+  edge [
+    source 162
+    target 275
+    weight 1
+  ]
+  edge [
+    source 162
+    target 367
+    weight 1
+  ]
+  edge [
+    source 163
+    target 274
+    weight 1
+  ]
+  edge [
+    source 163
+    target 275
+    weight 1
+  ]
+  edge [
+    source 163
+    target 367
+    weight 1
+  ]
+  edge [
+    source 164
+    target 365
+    weight 1
+  ]
+  edge [
+    source 164
+    target 233
+    weight 1
+  ]
+  edge [
+    source 166
+    target 209
+    weight 2
+  ]
+  edge [
+    source 166
+    target 330
+    weight 1
+  ]
+  edge [
+    source 166
+    target 198
+    weight 1
+  ]
+  edge [
+    source 167
+    target 168
+    weight 1
+  ]
+  edge [
+    source 167
+    target 386
+    weight 1
+  ]
+  edge [
+    source 167
+    target 174
+    weight 1
+  ]
+  edge [
+    source 168
+    target 266
+    weight 2
+  ]
+  edge [
+    source 168
+    target 184
+    weight 1
+  ]
+  edge [
+    source 168
+    target 386
+    weight 1
+  ]
+  edge [
+    source 168
+    target 174
+    weight 1
+  ]
+  edge [
+    source 170
+    target 171
+    weight 1
+  ]
+  edge [
+    source 170
+    target 311
+    weight 1
+  ]
+  edge [
+    source 170
+    target 217
+    weight 1
+  ]
+  edge [
+    source 170
+    target 380
+    weight 1
+  ]
+  edge [
+    source 170
+    target 415
+    weight 1
+  ]
+  edge [
+    source 171
+    target 215
+    weight 2
+  ]
+  edge [
+    source 171
+    target 217
+    weight 1
+  ]
+  edge [
+    source 171
+    target 240
+    weight 1
+  ]
+  edge [
+    source 171
+    target 277
+    weight 1
+  ]
+  edge [
+    source 171
+    target 287
+    weight 2
+  ]
+  edge [
+    source 171
+    target 320
+    weight 1
+  ]
+  edge [
+    source 171
+    target 382
+    weight 2
+  ]
+  edge [
+    source 171
+    target 387
+    weight 1
+  ]
+  edge [
+    source 171
+    target 231
+    weight 1
+  ]
+  edge [
+    source 171
+    target 311
+    weight 1
+  ]
+  edge [
+    source 171
+    target 242
+    weight 2
+  ]
+  edge [
+    source 171
+    target 332
+    weight 1
+  ]
+  edge [
+    source 171
+    target 415
+    weight 1
+  ]
+  edge [
+    source 171
+    target 380
+    weight 1
+  ]
+  edge [
+    source 172
+    target 243
+    weight 1
+  ]
+  edge [
+    source 174
+    target 193
+    weight 4
+  ]
+  edge [
+    source 174
+    target 282
+    weight 1
+  ]
+  edge [
+    source 174
+    target 270
+    weight 1
+  ]
+  edge [
+    source 174
+    target 249
+    weight 1
+  ]
+  edge [
+    source 174
+    target 319
+    weight 1
+  ]
+  edge [
+    source 174
+    target 357
+    weight 2
+  ]
+  edge [
+    source 174
+    target 370
+    weight 4
+  ]
+  edge [
+    source 174
+    target 361
+    weight 1
+  ]
+  edge [
+    source 174
+    target 245
+    weight 1
+  ]
+  edge [
+    source 174
+    target 180
+    weight 1
+  ]
+  edge [
+    source 174
+    target 197
+    weight 1
+  ]
+  edge [
+    source 174
+    target 386
+    weight 1
+  ]
+  edge [
+    source 174
+    target 420
+    weight 1
+  ]
+  edge [
+    source 174
+    target 244
+    weight 5
+  ]
+  edge [
+    source 174
+    target 409
+    weight 1
+  ]
+  edge [
+    source 174
+    target 339
+    weight 1
+  ]
+  edge [
+    source 174
+    target 252
+    weight 1
+  ]
+  edge [
+    source 175
+    target 280
+    weight 1
+  ]
+  edge [
+    source 176
+    target 251
+    weight 1
+  ]
+  edge [
+    source 176
+    target 369
+    weight 1
+  ]
+  edge [
+    source 176
+    target 259
+    weight 1
+  ]
+  edge [
+    source 176
+    target 248
+    weight 1
+  ]
+  edge [
+    source 178
+    target 268
+    weight 2
+  ]
+  edge [
+    source 178
+    target 362
+    weight 1
+  ]
+  edge [
+    source 178
+    target 273
+    weight 1
+  ]
+  edge [
+    source 178
+    target 196
+    weight 1
+  ]
+  edge [
+    source 179
+    target 225
+    weight 1
+  ]
+  edge [
+    source 181
+    target 239
+    weight 2
+  ]
+  edge [
+    source 181
+    target 310
+    weight 4
+  ]
+  edge [
+    source 182
+    target 392
+    weight 1
+  ]
+  edge [
+    source 185
+    target 258
+    weight 1
+  ]
+  edge [
+    source 186
+    target 204
+    weight 1
+  ]
+  edge [
+    source 186
+    target 285
+    weight 1
+  ]
+  edge [
+    source 186
+    target 326
+    weight 1
+  ]
+  edge [
+    source 186
+    target 208
+    weight 1
+  ]
+  edge [
+    source 187
+    target 292
+    weight 2
+  ]
+  edge [
+    source 187
+    target 345
+    weight 2
+  ]
+  edge [
+    source 187
+    target 372
+    weight 2
+  ]
+  edge [
+    source 187
+    target 375
+    weight 2
+  ]
+  edge [
+    source 189
+    target 317
+    weight 1
+  ]
+  edge [
+    source 189
+    target 281
+    weight 1
+  ]
+  edge [
+    source 193
+    target 197
+    weight 2
+  ]
+  edge [
+    source 193
+    target 244
+    weight 4
+  ]
+  edge [
+    source 193
+    target 370
+    weight 3
+  ]
+  edge [
+    source 193
+    target 365
+    weight 1
+  ]
+  edge [
+    source 196
+    target 268
+    weight 1
+  ]
+  edge [
+    source 196
+    target 362
+    weight 1
+  ]
+  edge [
+    source 197
+    target 365
+    weight 1
+  ]
+  edge [
+    source 197
+    target 370
+    weight 1
+  ]
+  edge [
+    source 197
+    target 244
+    weight 1
+  ]
+  edge [
+    source 198
+    target 330
+    weight 1
+  ]
+  edge [
+    source 198
+    target 209
+    weight 1
+  ]
+  edge [
+    source 198
+    target 393
+    weight 1
+  ]
+  edge [
+    source 199
+    target 200
+    weight 1
+  ]
+  edge [
+    source 200
+    target 421
+    weight 2
+  ]
+  edge [
+    source 201
+    target 260
+    weight 1
+  ]
+  edge [
+    source 202
+    target 301
+    weight 2
+  ]
+  edge [
+    source 202
+    target 356
+    weight 1
+  ]
+  edge [
+    source 204
+    target 285
+    weight 1
+  ]
+  edge [
+    source 204
+    target 326
+    weight 1
+  ]
+  edge [
+    source 204
+    target 208
+    weight 1
+  ]
+  edge [
+    source 205
+    target 400
+    weight 1
+  ]
+  edge [
+    source 206
+    target 207
+    weight 4
+  ]
+  edge [
+    source 208
+    target 285
+    weight 1
+  ]
+  edge [
+    source 208
+    target 326
+    weight 1
+  ]
+  edge [
+    source 209
+    target 364
+    weight 1
+  ]
+  edge [
+    source 209
+    target 368
+    weight 1
+  ]
+  edge [
+    source 209
+    target 393
+    weight 1
+  ]
+  edge [
+    source 209
+    target 330
+    weight 1
+  ]
+  edge [
+    source 209
+    target 297
+    weight 1
+  ]
+  edge [
+    source 209
+    target 344
+    weight 1
+  ]
+  edge [
+    source 209
+    target 314
+    weight 3
+  ]
+  edge [
+    source 210
+    target 414
+    weight 2
+  ]
+  edge [
+    source 211
+    target 321
+    weight 1
+  ]
+  edge [
+    source 211
+    target 397
+    weight 1
+  ]
+  edge [
+    source 212
+    target 336
+    weight 1
+  ]
+  edge [
+    source 212
+    target 407
+    weight 1
+  ]
+  edge [
+    source 215
+    target 240
+    weight 2
+  ]
+  edge [
+    source 215
+    target 242
+    weight 2
+  ]
+  edge [
+    source 215
+    target 382
+    weight 2
+  ]
+  edge [
+    source 217
+    target 311
+    weight 1
+  ]
+  edge [
+    source 217
+    target 380
+    weight 1
+  ]
+  edge [
+    source 217
+    target 415
+    weight 1
+  ]
+  edge [
+    source 218
+    target 219
+    weight 1
+  ]
+  edge [
+    source 221
+    target 222
+    weight 1
+  ]
+  edge [
+    source 221
+    target 289
+    weight 1
+  ]
+  edge [
+    source 221
+    target 290
+    weight 1
+  ]
+  edge [
+    source 222
+    target 290
+    weight 1
+  ]
+  edge [
+    source 222
+    target 289
+    weight 1
+  ]
+  edge [
+    source 224
+    target 264
+    weight 1
+  ]
+  edge [
+    source 224
+    target 424
+    weight 1
+  ]
+  edge [
+    source 226
+    target 227
+    weight 7
+  ]
+  edge [
+    source 226
+    target 334
+    weight 2
+  ]
+  edge [
+    source 227
+    target 334
+    weight 4
+  ]
+  edge [
+    source 228
+    target 229
+    weight 1
+  ]
+  edge [
+    source 230
+    target 248
+    weight 1
+  ]
+  edge [
+    source 230
+    target 355
+    weight 1
+  ]
+  edge [
+    source 230
+    target 309
+    weight 3
+  ]
+  edge [
+    source 231
+    target 332
+    weight 3
+  ]
+  edge [
+    source 234
+    target 260
+    weight 2
+  ]
+  edge [
+    source 238
+    target 243
+    weight 1
+  ]
+  edge [
+    source 238
+    target 394
+    weight 1
+  ]
+  edge [
+    source 239
+    target 425
+    weight 1
+  ]
+  edge [
+    source 239
+    target 378
+    weight 1
+  ]
+  edge [
+    source 240
+    target 242
+    weight 2
+  ]
+  edge [
+    source 240
+    target 382
+    weight 2
+  ]
+  edge [
+    source 241
+    target 247
+    weight 2
+  ]
+  edge [
+    source 242
+    target 382
+    weight 2
+  ]
+  edge [
+    source 244
+    target 245
+    weight 1
+  ]
+  edge [
+    source 244
+    target 249
+    weight 1
+  ]
+  edge [
+    source 244
+    target 270
+    weight 1
+  ]
+  edge [
+    source 244
+    target 370
+    weight 4
+  ]
+  edge [
+    source 245
+    target 270
+    weight 1
+  ]
+  edge [
+    source 245
+    target 249
+    weight 1
+  ]
+  edge [
+    source 246
+    target 363
+    weight 1
+  ]
+  edge [
+    source 248
+    target 251
+    weight 1
+  ]
+  edge [
+    source 248
+    target 259
+    weight 1
+  ]
+  edge [
+    source 248
+    target 355
+    weight 1
+  ]
+  edge [
+    source 248
+    target 369
+    weight 1
+  ]
+  edge [
+    source 249
+    target 270
+    weight 1
+  ]
+  edge [
+    source 251
+    target 259
+    weight 1
+  ]
+  edge [
+    source 251
+    target 369
+    weight 1
+  ]
+  edge [
+    source 252
+    target 409
+    weight 1
+  ]
+  edge [
+    source 253
+    target 254
+    weight 1
+  ]
+  edge [
+    source 253
+    target 263
+    weight 1
+  ]
+  edge [
+    source 258
+    target 359
+    weight 1
+  ]
+  edge [
+    source 259
+    target 369
+    weight 1
+  ]
+  edge [
+    source 262
+    target 377
+    weight 2
+  ]
+  edge [
+    source 264
+    target 424
+    weight 1
+  ]
+  edge [
+    source 265
+    target 322
+    weight 1
+  ]
+  edge [
+    source 267
+    target 418
+    weight 2
+  ]
+  edge [
+    source 268
+    target 273
+    weight 1
+  ]
+  edge [
+    source 268
+    target 362
+    weight 1
+  ]
+  edge [
+    source 271
+    target 272
+    weight 1
+  ]
+  edge [
+    source 271
+    target 383
+    weight 1
+  ]
+  edge [
+    source 271
+    target 292
+    weight 1
+  ]
+  edge [
+    source 272
+    target 292
+    weight 1
+  ]
+  edge [
+    source 274
+    target 275
+    weight 1
+  ]
+  edge [
+    source 274
+    target 367
+    weight 1
+  ]
+  edge [
+    source 275
+    target 367
+    weight 1
+  ]
+  edge [
+    source 277
+    target 320
+    weight 1
+  ]
+  edge [
+    source 277
+    target 387
+    weight 1
+  ]
+  edge [
+    source 277
+    target 317
+    weight 1
+  ]
+  edge [
+    source 278
+    target 290
+    weight 1
+  ]
+  edge [
+    source 280
+    target 355
+    weight 1
+  ]
+  edge [
+    source 281
+    target 317
+    weight 1
+  ]
+  edge [
+    source 282
+    target 361
+    weight 1
+  ]
+  edge [
+    source 282
+    target 420
+    weight 1
+  ]
+  edge [
+    source 283
+    target 294
+    weight 1
+  ]
+  edge [
+    source 285
+    target 326
+    weight 1
+  ]
+  edge [
+    source 289
+    target 290
+    weight 1
+  ]
+  edge [
+    source 290
+    target 309
+    weight 1
+  ]
+  edge [
+    source 292
+    target 345
+    weight 2
+  ]
+  edge [
+    source 292
+    target 375
+    weight 2
+  ]
+  edge [
+    source 292
+    target 372
+    weight 2
+  ]
+  edge [
+    source 298
+    target 306
+    weight 1
+  ]
+  edge [
+    source 298
+    target 310
+    weight 1
+  ]
+  edge [
+    source 300
+    target 308
+    weight 1
+  ]
+  edge [
+    source 300
+    target 307
+    weight 1
+  ]
+  edge [
+    source 305
+    target 410
+    weight 3
+  ]
+  edge [
+    source 306
+    target 310
+    weight 2
+  ]
+  edge [
+    source 307
+    target 308
+    weight 1
+  ]
+  edge [
+    source 311
+    target 380
+    weight 1
+  ]
+  edge [
+    source 311
+    target 415
+    weight 1
+  ]
+  edge [
+    source 313
+    target 314
+    weight 1
+  ]
+  edge [
+    source 314
+    target 368
+    weight 1
+  ]
+  edge [
+    source 314
+    target 379
+    weight 1
+  ]
+  edge [
+    source 315
+    target 342
+    weight 1
+  ]
+  edge [
+    source 320
+    target 387
+    weight 1
+  ]
+  edge [
+    source 321
+    target 397
+    weight 1
+  ]
+  edge [
+    source 336
+    target 407
+    weight 1
+  ]
+  edge [
+    source 338
+    target 408
+    weight 1
+  ]
+  edge [
+    source 344
+    target 360
+    weight 1
+  ]
+  edge [
+    source 345
+    target 372
+    weight 2
+  ]
+  edge [
+    source 345
+    target 375
+    weight 2
+  ]
+  edge [
+    source 351
+    target 416
+    weight 1
+  ]
+  edge [
+    source 361
+    target 420
+    weight 1
+  ]
+  edge [
+    source 372
+    target 375
+    weight 2
+  ]
+  edge [
+    source 374
+    target 396
+    weight 1
+  ]
+  edge [
+    source 378
+    target 425
+    weight 1
+  ]
+  edge [
+    source 380
+    target 415
+    weight 1
+  ]
+  edge [
+    source 429
+    target 430
+    weight 1
+  ]
+]
